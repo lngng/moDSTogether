@@ -1,20 +1,18 @@
 {
-    "env" : {
-        "game" : "C:/Program Files (x86)/Steam/steamapps/common/Don't Starve Together/",
-        "working_mods": "C:/Users/ryanr/source/",
+    "env": {
+        "game": "C:/Program Files (x86)/Steam/steamapps/common/Don't Starve Together/",
         "steamcmd_mods": "C:/steamcmd/steamapps/common/Don't Starve Together Dedicated Server/mods/",
         "game_local": "C:/Users/ryanr/Documents/Klei/DoNotStarveTogether/4709694"
     },
-    "mod" : {
-        "name" : "dst-broom-test",
+    "mod": {
+        "mod_name": "my-mod",
+        "mod_path": "C:\\Users\\ryanr\\source\\moDSTogether\\mod",
         "partial_install_files": [
             "modinfo.lua",
             "modmain.lua"
         ],
         "ignore": [
-            "external",
-            "workspace"
-        ],
-        "debug_world": "C:/Users/ryanr/Documents/Klei/DoNotStarveTogether/WryWorld"
+            "external"
+        ]
     }
 }

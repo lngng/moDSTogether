@@ -3,10 +3,14 @@ import shutil
 import sys
 import json
 import subprocess
-
+import pathlib
 
 CWD = os.getcwd()
 
+TOOL_ENVIRONMENT = {
+    0 : "STANDALONE",
+    1 : "MODSTOGETHER"
+}
 
 def write_file(file, text):
     """Writes text to file. Returns -1 on failure."""
@@ -57,9 +61,11 @@ def install_file(src, dest):
 
 
 class Config:
+
     def __init__(self, path):
         self.path = path
-        
+        self.initialize_settings()
+
     def _get(self, section, key=None):
         """Gets specified section and key. Key is optional."""
         with open(self.path) as json_config_file:
@@ -68,6 +74,52 @@ class Config:
             if key:
                 return config_section[key]
             return config_section
+
+    def _set(self, section, key, value):
+        """Sets specified key."""
+        config = None
+        with open(self.path) as json_config_file:
+            config = json.load(json_config_file)
+            config[section][key] = value
+        with open(self.path, "w") as json_config_file:
+            json.dump(config, json_config_file, indent=4)
+    
+    def is_packaged(self):
+        script_directory_path = pathlib.Path(__file__).parent.absolute()
+        flag_path = os.path.join(script_directory_path, "PACKAGE_FLAG")
+        if os.path.exists(flag_path):
+            return True
+
+    def initialize_settings(self):
+        _game = self.game
+        self.resolve_message("game", _game, os.path.exists(_game))
+
+        _steamcmd_mods = self.steamcmd_mods #TODO: change to steamcmd_game
+        self.resolve_message("steamcmd_mods", _steamcmd_mods, os.path.exists(_steamcmd_mods))
+
+        _game_local = os.path.join(self.current_user, "Documents/Klei/DoNotStarveTogether/4709694")
+        self.resolve_message("game_local", _game_local, os.path.exists(_game_local))
+        
+        _mod_path = self.mod_path
+        _mod_name = self.mod_name
+        if self.is_packaged():
+            if self.mod_name == "UNSET":
+                usr_input = input("moDSTogether package detected. Please enter a name for your mod. This name will be used as a directory name for debug installs: ")
+                if usr_input != "" and not (("/") in usr_input) and not(('\\') in usr_input): 
+                    _mod_name = usr_input
+                    _mod_path = os.path.abspath(os.path.join("./", "./", "mod"))
+                    self._set("mod", "mod_path", _mod_path)
+                    self._set("mod", "mod_name", _mod_name)
+        self.resolve_message("mod_path", _mod_path, os.path.exists(_mod_path))
+        self.resolve_message("mod_name", _mod_name, True)
+
+        
+    def resolve_message(self, key, value, isOk):
+        if isOk:
+            print("[OK]: config <" + key + "> using : " + value)
+        else:
+            print("[WARNING]: could not resolve config <" + key + ">, please update configuration manually. EXPECTED: " + value)
+
     # Defined
     @property
     def game(self):
@@ -78,16 +130,6 @@ class Config:
     def game_local(self):
         """Defined local game directory."""
         return self._get('env', 'game_local')
-    
-    @property
-    def autocompiler(self):
-        """Defined Don't Starve Together autocompiler full path."""
-        return os.path.join(self.game, "..", "Don't Starve Mod Tools", "mod_tools", "autocompiler.exe")
-
-    @property
-    def working_mods(self):
-        """Defined Local directory where WIP mods are stored."""
-        return self._get('env', 'working_mods')
 
     @property
     def steamcmd_mods(self):
@@ -96,9 +138,14 @@ class Config:
 
     @property
     def mod_name(self):
-        """Defined name of mod directory."""
-        return self._get('mod', 'name')
+        """Defined name of mod."""
+        return self._get('mod', 'mod_name')
     
+    @property
+    def mod_path(self):
+        """Defined path of mod directory."""
+        return self._get('mod', 'mod_path')
+
     @property
     def partial_install_patterns(self):
         """Defined patterns to be included for rapid development installs."""
@@ -113,6 +160,10 @@ class Config:
     def debug_world(self):
         return self._get('mod', 'debug_world')
     #Resolved
+    @property
+    def current_user(self):
+        return os.path.expanduser('~')
+    
     @property
     def target_mod_dir_steam(self):
         """Resolved destination directory for Steam installs."""
@@ -135,19 +186,18 @@ class Config:
         return os.path.join(self.game, "cached_mods")
 
     @property
-    def working_mod(self):
-        """Resolved working mod directory."""
-        return os.path.join(self.working_mods, self.mod_name)
-
-    @property
     def game_executable(self):
         """Resolved dontstarve_steam.exe path."""
         return os.path.join(self.game, 'bin', 'dontstarve_steam.exe')
 
+    @property
+    def autocompiler(self):
+        """Resolved Don't Starve Together autocompiler full path."""
+        return os.path.join(self.game, "..", "Don't Starve Mod Tools", "mod_tools", "autocompiler.exe")
       
 class App:
     def __init__(self):
-        self.config = Config('./config.json')
+        self.config = Config(os.path.join(pathlib.Path(__file__).parent.absolute(), "config.json"))
         self.main_menu_options = {
             '0' : ([self.clear_cache, self.clear_existing_mod_installation, self.install_mod], "Normal (Clear cache, clear existing installation, install from current branch)"),
             '1' : ([self.clear_cache], "Clear cache"),

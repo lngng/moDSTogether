@@ -5,16 +5,15 @@
 * * *
 
 2. Complete the process by filling in your details. Note the image above. Feel free to make the repo public, but it isn't neccessary. It can be private and you will still be able to collaborate with others. You can always change this setting later.
-<br>
 ![from-template.png](/docs/2-create.png)
 * * *
 
+3.  Click "Clone or download" on this page, and then "Open in Desktop" (If you're not using Github for Desktop and are unsure how to proceed, consider trying it for now.):
 ![open-in-desktop.png](/docs/3-open-in-desktop.png)
-1.  Click "Clone or download" on this page, and then "Open in Desktop" (If you're not using Github for Desktop and are unsure how to proceed, consider trying it for now.):
 * * *
 
-![clone-repo.png](/docs/4-clone-repo.png)
 4.  Github for Desktop should open with the prompt shown below. The Repository URL field can be left as is. For Local Path, click "Choose..." to select a folder. (In the image below, I chose a folder called "projects". This is where the mod repo will be stored locally for you to work on.)
+![clone-repo.png](/docs/4-clone-repo.png)
 * * *
 
 

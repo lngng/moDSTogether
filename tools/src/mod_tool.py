@@ -308,7 +308,7 @@ class App:
 
         # Copy subdirs (except .git and .vscode into build folder)
         try:
-            working_mod_dir = self.config.working_mod
+            working_mod_dir = self.config.mod_path
             ignore_patterns = ['.git*', '.vscode']
             for pattern in self.config.ignore:
                 ignore_patterns.append(pattern)
@@ -373,7 +373,7 @@ class App:
     def partial_install(self):
         print("\n> Performing partial install...")
         for file_ in self.config.partial_install_patterns:
-            src = os.path.join(self.config.working_mod, file_)
+            src = os.path.join(self.config.mod_path, file_)
 
             dest_steam = os.path.join(self.config.target_mod_dir_steam, file_)
             dest_steamcmd = os.path.join(self.config.target_mod_dir_steamcmd, file_)
@@ -384,8 +384,8 @@ class App:
     def compile_working_anims(self):
         """Compiles exported directories to populate anim directory of working mod.
         """
-        working_exported = os.path.join(self.config.working_mod, "exported")
-        working_anim = os.path.join(self.config.working_mod, "anim")
+        working_exported = os.path.join(self.config.mod_path, "exported")
+        working_anim = os.path.join(self.config.mod_path, "anim")
         temp_exported = os.path.join(self.config.game, "mods", "_compile", "exported")
         temp_anim = os.path.join(self.config.game, "mods", "_compile", "anim")
         # Delete temp exported if it exists 

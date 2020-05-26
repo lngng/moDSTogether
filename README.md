@@ -1,6 +1,8 @@
+UNDER CONSTRUCTION
+
 # Installing Git
 
-There are a few options for using git on windows. Behind all of them is the same command-based system that you're probably somewhat familiar with. Paired with a hosting option, a git-tracked project can extend those commands and its endless benefits to a team of any size. We'll be using GitHub for that.
+There are a few options for using git to track a project. Behind all of them is the same command-based system that you're probably somewhat familiar with. Paired with a hosting option, a git-tracked project can extend those commands and its endless benefits to a team of any size. We'll be using GitHub for that.
 
 There happens to be a desktop git solution made by Github and it doesn't suck, so we'll use that.
 
@@ -10,7 +12,7 @@ I recommend this route for now because:
 
 - Graphical interface.
     
-- We'll be using git with github specifically, and its a git app... from and for GitHub. (It's worth noting again the difference between git and git hosts like github. git is to github as porn is to pornhub. There are other options btw, like gitlabs, bitbucket, etc.)
+- We'll be using git with github specifically, and its a git app... from and for GitHub. (It's worth noting again the difference between git and git hosts like github. git is to github as porn is to pornhub. There are other options like Gitlab, Bitbucket, etc.)
     
 - It's aimed at people new to git who want to do exactly what we're trying to do: open a project up to a small team for colloaboration.
     
@@ -19,8 +21,8 @@ I recommend this route for now because:
 - Being a user-friendly git app designed to work with github, its the best possible intro to the three main topics:
     
     - Git (the system)
-    - Repositories (the thing git works upon/with. We're making a Witching Hour repository.)
-    - Remotes (the hosted repository)
+    - Repositories (the thing git works upon/with. We're making a repository for our mod.)
+    - Remotes (hosted repositories)
 
 # Getting Started
 

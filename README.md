@@ -1,3 +1,27 @@
+# Installing Git
+
+There are a few options for using git on windows. Behind all of them is the same command-based system that you're probably somewhat familiar with. Paired with a hosting option, a git-tracked project can extend those commands and its endless benefits to a team of any size. We'll be using GitHub for that.
+
+There happens to be a desktop git solution made by Github and it doesn't suck, so we'll use that.
+
+## [Github for Desktop](https://desktop.github.com/)
+
+I recommend this route for now because:
+
+- Graphical interface.
+    
+- We'll be using git with github specifically, and its a git app... from and for GitHub. (It's worth noting again the difference between git and git hosts like github. git is to github as porn is to pornhub. There are other options btw, like gitlabs, bitbucket, etc.)
+    
+- It's aimed at people new to git who want to do exactly what we're trying to do: open a project up to a small team for colloaboration.
+    
+- Eventually you might find yourself using git via commands in a terminal. When you do, you'll recognize a lot of the commands from using this app. While it combines and obscures them a little bit for ease-of-use, it does a good job of building familiarity nonetheless.
+    
+- Being a user-friendly git app designed to work with github, its the best possible intro to the three main topics:
+    
+    - Git (the system)
+    - Repositories (the thing git works upon/with. We're making a Witching Hour repository.)
+    - Remotes (the hosted repository)
+
 # Getting Started
 
 1. On this page, click 'Use this template' (pictured below) to start your own repository with the included tools, file-structure, and documentation to help jump-start collaboration on your mod:
@@ -25,3 +49,7 @@
 * * *
 
 7. All thats left is to push this to Github. This last step is a moment to appreciate what git is about. It strives to capture & reflect the changes you made wherever the repo may be, while tolerating time & version discrepancies across the team. When it can't, it shines even then by recognizing it and prompting a project member to settle what it couldn't confidently. 
+
+# Moving Forward
+
+under construction

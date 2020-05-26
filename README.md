@@ -8,7 +8,7 @@
 ![from-template.png](/docs/2-create.png)
 * * *
 
-3. Click "Clone or download" on this page, and then "Open in Desktop" (If you're not using Github for Desktop and are unsure how to proceed, consider trying it for now):
+3. Click "Clone or download" in your new repository, and then "Open in Desktop" (If you're not using Github for Desktop and are unsure how to proceed, consider trying it for now):
 ![open-in-desktop.png](/docs/3-open-in-desktop.png)
 * * *
 

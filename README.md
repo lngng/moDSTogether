@@ -8,20 +8,19 @@
 ![from-template.png](/docs/2-create.png)
 * * *
 
-3.  Click "Clone or download" on this page, and then "Open in Desktop" (If you're not using Github for Desktop and are unsure how to proceed, consider trying it for now):
+3. Click "Clone or download" on this page, and then "Open in Desktop" (If you're not using Github for Desktop and are unsure how to proceed, consider trying it for now):
 ![open-in-desktop.png](/docs/3-open-in-desktop.png)
 * * *
 
-4.  Github for Desktop should open with the prompt shown below. The Repository URL field can be left as is. For Local Path, click "Choose..." to select a folder. (In the image below, I chose a folder called "projects". This is where the mod repo will be stored locally for you to work on):
+4. Github for Desktop should open with the prompt shown below. The Repository URL field can be left as is. For Local Path, click "Choose..." to select a folder. (In the image below, I chose a folder called "projects". This is where the mod repo will be stored locally for you to work on):
 ![clone-repo.png](/docs/4-clone-repo.png)
 * * *
 
-
-5.  Navigate to the folder you just chose. You will see a directory called "mod". Copy the contents of your mod (ex: anim, exported, scripts, modmain.lua, etc) into this folder. Then open Github for Desktop and you will notice that these additions are listed as Changes.
+5. Navigate to the folder you just chose. You will see a directory called "mod". Copy the contents of your mod (ex: anim, exported, scripts, modmain.lua, etc) into this folder. Then open Github for Desktop and you will notice that these additions are listed as Changes.
 ![clone-repo.png](/docs/5-insert-mod-see-changes.png)
 * * *
 
-6.  At the bottom left, fill the summary field like below and then click 'Commit to master'. Congratulations! You've made your first commit to the repository, on the 'master' branch. 
+6. At the bottom left, fill the summary field like below and then click 'Commit to master'. Congratulations! You've made your first commit to the repository, on the 'master' branch. 
 ![clone-repo.png](/docs/6-first-commit.png)
 * * *
 

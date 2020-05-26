@@ -2,9 +2,9 @@ UNDER CONSTRUCTION
 
 # Installing Git
 
-There are a few options for using git to track a project. Behind all of them is the same command-based system that you're probably somewhat familiar with. Paired with a hosting option, a git-tracked project can extend those commands and its endless benefits to a team of any size. We'll be using GitHub for that.
+There are a few options for using git to track a project. Behind all of them is the same command-based system that you're probably somewhat familiar with. Paired with a hosting option, a git-tracked project can extend those commands and its endless benefits to a team of any size. We'll be using GitHub to host ours.
 
-There happens to be a desktop git solution made by Github and it doesn't suck, so we'll use that.
+There happens to be a desktop git solution made by Github and it doesn't suck, so we'll use that for now.
 
 ## [Github for Desktop](https://desktop.github.com/)
 

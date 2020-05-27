@@ -54,7 +54,11 @@ I recommend this route for now because:
 
 # Moving Forward
 
-under construction
+## Branches
+
+## Common Tasks
+
+## Co-contributers
 
 # Tools
 

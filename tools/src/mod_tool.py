@@ -5,12 +5,9 @@ import json
 import subprocess
 import pathlib
 
-CWD = os.getcwd()
+DEBUG = True
 
-TOOL_ENVIRONMENT = {
-    0 : "STANDALONE",
-    1 : "MODSTOGETHER"
-}
+CWD = os.getcwd()
 
 def write_file(file, text):
     """Writes text to file. Returns -1 on failure."""
@@ -87,17 +84,16 @@ class Config:
     def is_packaged(self):
         script_directory_path = pathlib.Path(__file__).parent.absolute()
         flag_path = os.path.join(script_directory_path, "PACKAGE_FLAG")
-        if os.path.exists(flag_path):
-            return True
-
+        return os.path.exists(flag_path)
+            
     def initialize_settings(self):
         _game = self.game
         self.resolve_message("game", _game, os.path.exists(_game))
 
-        _steamcmd_mods = self.steamcmd_mods #TODO: change to steamcmd_game
-        self.resolve_message("steamcmd_mods", _steamcmd_mods, os.path.exists(_steamcmd_mods))
+        _game_steamcmd = self.game_steamcmd
+        self.resolve_message("game_steamcmd", _game_steamcmd, os.path.exists(_game_steamcmd))
 
-        _game_local = os.path.join(self.current_user, "Documents/Klei/DoNotStarveTogether/4709694")
+        _game_local = self.game_local
         self.resolve_message("game_local", _game_local, os.path.exists(_game_local))
         
         _mod_path = self.mod_path
@@ -113,14 +109,22 @@ class Config:
         self.resolve_message("mod_path", _mod_path, os.path.exists(_mod_path))
         self.resolve_message("mod_name", _mod_name, True)
 
-        
+        if DEBUG:
+            print("\nDEBUG")
+            print("target_mod_steam", self.target_mod_steam)
+            print("target_mod_steamcmd", self.target_mod_steamcmd)
+            print("cache_dir_steam", self.cache_dir_steam)
+            print("cache_dir_steamcmd", self.cache_dir_steamcmd)
+            print("game_executable", self.game_executable)
+            print("autocompiler", self.autocompiler)
+
     def resolve_message(self, key, value, isOk):
         if isOk:
             print("[OK]: config <" + key + "> using : " + value)
         else:
             print("[WARNING]: could not resolve config <" + key + ">, please update configuration manually. EXPECTED: " + value)
 
-    # Defined
+# Defined
     @property
     def game(self):
         """Defined local directory where Don't Starve Together is installed."""
@@ -132,9 +136,9 @@ class Config:
         return self._get('env', 'game_local')
 
     @property
-    def steamcmd_mods(self):
+    def game_steamcmd(self):
         """Defined Local directory where steamcmd DST mods are stored."""
-        return self._get('env', 'steamcmd_mods')
+        return self._get('env', 'game_steamcmd')
 
     @property
     def mod_name(self):
@@ -149,7 +153,7 @@ class Config:
     @property
     def partial_install_patterns(self):
         """Defined patterns to be included for rapid development installs."""
-        return self._get('mod', 'partial_install_files')
+        return self._get('mod', 'partial_install_patterns')
 
     @property
     def ignore(self):
@@ -159,21 +163,22 @@ class Config:
     @property
     def debug_world(self):
         return self._get('mod', 'debug_world')
-    #Resolved
+# Resolved
     @property
     def current_user(self):
         return os.path.expanduser('~')
     
     @property
-    def target_mod_dir_steam(self):
+    def target_mod_steam(self):
         """Resolved destination directory for Steam installs."""
         mod_dir = os.path.join(self.game, "mods") 
         return os.path.join(mod_dir, self.mod_name)
 
     @property
-    def target_mod_dir_steamcmd(self):
+    def target_mod_steamcmd(self):
         """Resolved destination directory for SteamCMD installs."""
-        return os.path.join(self.steamcmd_mods, self.mod_name)
+        mod_dir = os.path.join(self.game_steamcmd, "mods") 
+        return os.path.join(mod_dir, self.mod_name)
     
     @property
     def cache_dir_steam(self):
@@ -193,8 +198,10 @@ class Config:
     @property
     def autocompiler(self):
         """Resolved Don't Starve Together autocompiler full path."""
-        return os.path.join(self.game, "..", "Don't Starve Mod Tools", "mod_tools", "autocompiler.exe")
+        auto = os.path.join(pathlib.Path(self.game).parent.absolute(), "Don't Starve Mod Tools", "mod_tools", "autocompiler.exe")
+        return auto
       
+
 class App:
     def __init__(self):
         self.config = Config(os.path.join(pathlib.Path(__file__).parent.absolute(), "config.json"))
@@ -205,11 +212,10 @@ class App:
             '3' : ([self.install_mod], "Install from working directory"),
             '4' : ([self.run_autocompiler], "Run autocompiler"),
             '5' : ([self.compile_working_anims], "Compile working anims"),
-            '6' : ([self.update_bigportraits_xml], "Update xml files (bigportraits)"),
-            '7' : ([self.partial_install], "Partial install"),
-            '8' : ([self.refresh_cluster], "Refresh cluster..."),
-            '9' : ([self.launch_game], "Launch Don't Starve Together"),
-            'c' : ([self.edit_config], "Edit config"),
+            '6' : ([self.partial_install], "Partial install"),
+            '7' : ([self.refresh_cluster], "Refresh cluster..."),
+            '8' : ([self.launch_game], "Launch Don't Starve Together"),
+            '9' : ([self.edit_config], "Edit config"),
             'q' : ([self.quit_app], "Quit")
         }
 
@@ -232,36 +238,6 @@ class App:
                 functions_to_call = self.main_menu_options[user_option_selection][0]
                 for func in functions_to_call:
                     func()
-        
-    def update_bigportraits_xml(self):
-        """Updates bigportraits xml files in WORKING directory using current config and DST autocompiler v1.2.4 specs"""
-        
-        char = input("Character name: ")
-        target_mod_dir = self.config.target_mod_dir_steam
-
-        # bigportraits
-        bigportrait_none = target_mod_dir + ("/bigportraits/%s_none.xml" % (char))
-        text_bigportrait_none = read_file(bigportrait_none)
-        new_text_bigportrait_none = replace_element_name(text_bigportrait_none, char + "_none_oval.tex")
-        write_file(bigportrait_none, new_text_bigportrait_none)
-
-    def update_names_xml(self):
-        """Updates names xml files in WORKING directory using current config and DST autocompiler v1.2.4 specs"""
-
-        char = input("Character name: ")
-        target_mod_dir = self.config.target_mod_dir_steam
-
-        # names
-        names_nicole = target_mod_dir + "/images/names_nicole.xml"
-        text_names = read_file(names_nicole)
-        new_text_names = replace_element_name(text_names, char + ".tex")
-        write_file(names_nicole, new_text_names)
-        
-        # names_gold
-        names_gold_nicole = target_mod_dir + "/images/names_gold_nicole.xml"
-        text_names_gold = read_file(names_gold_nicole)
-        new_text_names_gold = replace_element_name(text_names_gold, char)
-        write_file(names_gold_nicole, new_text_names_gold)
 
     def clear_cache(self):
         """Deletes all subdirectories & files found in DST mod CACHE directory"""
@@ -274,7 +250,7 @@ class App:
         """Deletes TARGET mod directory & steamcmd DST Dedicated Server mod folder"""
 
         print("\n> Clearing existing mod installation...")
-        path = self.config.target_mod_dir_steam.replace("/", "\\")
+        path = self.config.target_mod_steam.replace("/", "\\")
         if not os.path.lexists(path):
             print("> No existing installation!")
         else:
@@ -285,7 +261,7 @@ class App:
                 print('Failed to remove %s. Reason: %s' % (path, e))
         
         print("\n> Clearing existing steamcmd mod installation...")
-        path = self.config.target_mod_dir_steamcmd.replace("/", "\\")
+        path = self.config.target_mod_steamcmd.replace("/", "\\")
         if not os.path.lexists(path):
             print("> No existing steamcmd installation!")
         else:
@@ -318,7 +294,7 @@ class App:
             print('> Failed to populate build folder. Reason: ' + str(e))
         
         # Copy build contents to target mod dir
-        mod_dir = self.config.target_mod_dir_steam
+        mod_dir = self.config.target_mod_steam
         try:
             shutil.copytree(build_dir_path, mod_dir)
             print("\n>Installation of build to target steam mod directory was successful!")
@@ -326,7 +302,7 @@ class App:
             print(str(e))
         
         # Copy build contents to steamcmd mod dir
-        steamcmd_mod_dir = self.config.target_mod_dir_steamcmd
+        steamcmd_mod_dir = self.config.target_mod_steamcmd
         try:
             shutil.copytree(build_dir_path, steamcmd_mod_dir)
             print("> Installation of build to steamcmd mod directory was successful!")
@@ -375,8 +351,8 @@ class App:
         for file_ in self.config.partial_install_patterns:
             src = os.path.join(self.config.mod_path, file_)
 
-            dest_steam = os.path.join(self.config.target_mod_dir_steam, file_)
-            dest_steamcmd = os.path.join(self.config.target_mod_dir_steamcmd, file_)
+            dest_steam = os.path.join(self.config.target_mod_steam, file_)
+            dest_steamcmd = os.path.join(self.config.target_mod_steamcmd, file_)
             
             install_file(src, dest_steam)
             install_file(src, dest_steamcmd)
@@ -424,7 +400,7 @@ class App:
             os.startfile(file)
         
     def quit_app(self):
-        quit()
+        sys.exit()
 
 
 if __name__ == "__main__":

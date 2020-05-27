@@ -4,7 +4,7 @@ UNDER CONSTRUCTION
 
 There are a few options for using git to track a project. Behind all of them is the same command-based system that you're probably somewhat familiar with. Paired with a hosting option, a git-tracked project can extend those commands and its endless benefits to a team of any size. We'll be using GitHub to host ours.
 
-There happens to be a desktop git solution made by Github and it doesn't suck, so we'll use that for now.
+There happens to be a desktop git solution made by GitHub and it doesn't suck, so we'll use that for now.
 
 ## [Github for Desktop](https://desktop.github.com/)
 
@@ -12,7 +12,7 @@ I recommend this route for now because:
 
 - Graphical interface.
     
-- We'll be using git with github specifically, and its a git app... from and for GitHub. (It's worth noting again the difference between git and git hosts like github. git is to github as porn is to pornhub. There are other options like Gitlab, Bitbucket, etc.)
+- We'll be using git with Github specifically, and its a git app... from and for Gitub. (It's worth noting again the difference between git and git hosts like Github. Git is to Github as porn is to Pornhub. There are other options like Gitlab, Bitbucket, etc.)
     
 - It's aimed at people new to git who want to do exactly what we're trying to do: open a project up to a small team for colloaboration.
     
@@ -55,3 +55,6 @@ I recommend this route for now because:
 # Moving Forward
 
 under construction
+
+# Tools
+

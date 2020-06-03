@@ -1,12 +1,20 @@
-UNDER CONSTRUCTION
+<h1> moDSTogether </h1>
 
-# Installing Git
+- [Installing Git](#installing-git)
+  - [Github for Desktop](#github-for-desktop)
+- [Getting Started](#getting-started)
+- [Moving Forward](#moving-forward)
+  - [Branches](#branches)
+  - [Common Tasks](#common-tasks)
+- [Tools](#tools)
+
+## Installing Git
 
 There are a few options for using git to track a project. Behind all of them is the same command-based system that you're probably somewhat familiar with. Paired with a hosting option, a git-tracked project can extend those commands and its endless benefits to a team of any size. We'll be using GitHub to host ours.
 
 There happens to be a desktop git solution made by GitHub and it doesn't suck, so we'll use that for now.
 
-## [Github for Desktop](https://desktop.github.com/)
+### [Github for Desktop](https://desktop.github.com/)
 
 I recommend this route for now because:
 
@@ -24,41 +32,46 @@ I recommend this route for now because:
     - Repositories (the thing git works upon/with. We're making a repository for our mod.)
     - Remotes (hosted repositories)
 
-# Getting Started
+## Getting Started
 
-1. On this page, click 'Use this template' (pictured below) to start your own repository with the included tools, file-structure, and documentation to help jump-start collaboration on your mod:
-![use-this-template.png](/docs/1-use-this-template.png)
+1. **Click 'Use this template'** (pictured below) to start your own repository with included tools, documentation, and file-structure to help jump-start collaboration on your mod.
+   
+   ![use-this-template.png](/img/gettingstarted/1-use-this-template.png)
 * * *
 
-2. Complete the process by filling in your details. Note the image below. Feel free to make the repo public, but it isn't neccessary. It can be private and you will still be able to collaborate with others. You can always change this setting later.
-![from-template.png](/docs/2-create.png)
+2. **Finish creating your repository**. Note the image below. Feel free to make the repo public, but it isn't neccessary. It can be private and you will still be able to collaborate with others. You can always change this setting (as well as the name and description!) later on.
+
+   ![from-template.png](/img/gettingstarted/2-create.png)
 * * *
 
-3. Click "Clone or download" in your new repository, and then "Open in Desktop" (If you're not using Github for Desktop and are unsure how to proceed, consider trying it for now):
-![open-in-desktop.png](/docs/3-open-in-desktop.png)
+3. **Click "Clone or download"** in your newly generated repository, and then **"Open in Desktop"**.
+    
+    ![open-in-desktop.png](/img/gettingstarted/3-open-in-desktop.png)
 * * *
 
-4. Github for Desktop should open with the prompt shown below. The Repository URL field can be left as is. For Local Path, click "Choose..." to select a folder. (In the image below, I chose a folder called "projects". This is where the mod repo will be stored locally for you to work on):
-![clone-repo.png](/docs/4-clone-repo.png)
+4. **Click "Choose..." to select a folder** when Github for Desktop prompts you. In the image below, I chose a folder called *projects*. This is where the mod repo will be stored locally for you to work on.
+
+   ![clone-repo.png](/img/gettingstarted/4-clone-repo.png)
 * * *
 
-5. Navigate to the folder you just chose. You will see a directory called "mod". Copy the contents of your mod (ex: anim, exported, scripts, modmain.lua, etc) into this folder. Then open Github for Desktop and you will notice that these additions are listed as Changes.
-![clone-repo.png](/docs/5-insert-mod-see-changes.png)
+5. **Copy the contents of your mod** (ex: anim, exported, scripts, modmain.lua, etc) into */mod*. Then open Github for Desktop and you will notice that these additions are listed as Changes.
+   
+   ![clone-repo.png](/img/gettingstarted/5-insert-mod-see-changes.png)
 * * *
 
-6. At the bottom left, fill the summary field like below and then click 'Commit to master'. Congratulations! You've made your first commit to the repository, on the 'master' branch. 
-![clone-repo.png](/docs/6-first-commit.png)
+7. **Type a commit message** then click **Commit to master**. Congratulations! You've made your first commit to the repository. It contained the addition of you mod files, and it established the **master branch**.
+
+    ![clone-repo.png](/img/gettingstarted/6-first-commit.png)
 * * *
 
-7. All thats left is to push this to Github. This last step is a moment to appreciate what git is about. It strives to capture & reflect the changes you made wherever the repo may be, while tolerating time & version discrepancies across the team. When it can't, it shines even then by recognizing it and prompting a project member to settle what it couldn't confidently. 
+8. All thats left is to push this to Github. This last step is a moment to appreciate what git is about, and the job its being tasked with. It will strive to capture & reflect the changes you made wherever the repo may be, while tolerating time & version discrepancies across the team. When it can't, it shines even then by recognizing it and prompting a project member to settle what it couldn't confidently. 
 
-# Moving Forward
+## Moving Forward
 
-## Branches
+### Branches
 
-## Common Tasks
+### Common Tasks
 
-## Co-contributers
 
-# Tools
+## Tools
 

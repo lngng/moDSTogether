@@ -1,4 +1,9 @@
-<h1> moDSTogether </h1>
+<p align="center">
+  <a href="" rel="noopener">
+ <img src="img/banner/modstogether-banner.png" alt="moDSTogether"></a>
+</p>
+
+
 
 - [Installing Git](#installing-git)
   - [Github for Desktop](#github-for-desktop)
@@ -69,6 +74,31 @@ I recommend this route for now because:
 ## Moving Forward
 
 ### Branches
+![](/img/branches/master-development-feature.png)
+
+Right now, our repository is based soley in one branch: the *master* branch. We are going to use a workflow strategy based on one called Gitflow as we move forward.
+
+In our *master* branch, we have the supporting items from moDSTogether and our mod, which idealy is in a state that reflects its most recent release. Its okay if not, but from here on the history of the *master* branch will be akin to a history of our releases to the Steam Workshop. Many commits to the repository will be made between and up to releases, but we won't be commiting them all directly to our central branch. 
+
+We are going to create another branch immediately, based on the *master* branch called the *development* branch. When accumulative commits in this *development* branch warrant or represent a public update to the mod, it will merge back into the *master* branch, rolling in all the changes that make up the new release. This is how the *master* branch will remain symbolic of new versions in the SteamWorkshop.
+
+To keep things simple, we could say that development is going to involve adding new features, bug-fixes, and various other miscellaneous changes. When we want to get started on one of these, like adding a cool new item to the mod, we're going branch off of *development* with a short-lived but useful branch called something like: *cool-new-item*. When the new item is finished, it will be merged back into *development* (which makes it destined for the next release).
+
+Consider these example patchnotes:
+
+```
+v0.7 "The Cool Stuff Update"
+   - added the cool new item 
+   - fixed a bug where items weren't rendering as cool as intended
+   - added cool new skins for the cool new item
+```
+
+The first line would mirror a node in the commit history of our *master* branch. A version update.
+
+The items below would represent those of our *development* branch, which contains the rolled-up work completed over the lives of our splintering feature branches, like *cool-new-item*. Commits in those feature/fix/change branches are just bread-and-butter git commits, which are not symbolic of anything in particular; they just represent progress for the dev working in the branch and the dev decides their nature when they enter their **commit message** with each one.
+
+If we only used one branch (called a centralized strategy), all commits would be like those I just described. But, in the interest of organization, project-manageability, easier collaboration and effective use of git just generally, we employed some others.
+
 
 ### Common Tasks
 

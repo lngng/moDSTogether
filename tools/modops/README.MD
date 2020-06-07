@@ -1,4 +1,4 @@
-# Debug Panel
+# modops
 A suite of tools for rapid deployment/debugging of Don't Starve Together mods.
 
 

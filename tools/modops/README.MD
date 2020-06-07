@@ -2,7 +2,7 @@
 A suite of tools for rapid deployment/debugging of Don't Starve Together mods.
 
 
-![Debug Panel](/tools/debug-panel/img/debug-panel.png)
+![modops](/tools/debug-panel/img/modops.png)
 * * *
   
 ## Sample Configuration

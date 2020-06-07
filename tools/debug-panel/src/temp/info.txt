@@ -1,1 +1,0 @@
-This folder should contain the contents of your mod. For example, the filepath /your-mod-repo/mod/modmain.lua should exist.

@@ -5,10 +5,6 @@ import sys
 
 SCRIPT_DIRECTORY = os.path.dirname(os.path.realpath(__file__))
 
-D_COMMANDS = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Don't Starve Together\\data\\scripts\\debugcommands.lua"
-D_KEYS = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Don't Starve Together\\data\\scripts\\debugkeys.lua"
-
-
 def list_print(list, numbered=False):
     c = 0 
     for each in list:

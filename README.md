@@ -13,6 +13,7 @@
   - [Common Tasks](#common-tasks)
 - [Tools](#tools)
   - [sumlua](#sumlua)
+  - [modops](#modops)
 
 ## Installing Git
 
@@ -112,4 +113,6 @@ If we only used one branch (called a centralized strategy), all commits would be
 - See output from consolecommands.lua & debugcommands.lua in /examples for good use-cases.
 
    **NOTE:** *consolecommands.csv & debugcommands.csv (found in tools/sumlua/examples) refer to and contain extracts of material created & owned by Klei Entertainment. No copyright infringement intended, will swiftly remove on request.*
+
+### [modops](https://github.com/ryanraposo/moDSTogether/blob/master/tools/modops/readme.md)
 

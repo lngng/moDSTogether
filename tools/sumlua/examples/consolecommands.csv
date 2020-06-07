@@ -1,0 +1,110 @@
+Name,Parameters,Scope
+ ConsoleCommandPlayer,,global
+ ConsoleWorldPosition,,global
+ ConsoleWorldEntityUnderMouse,,global
+ ListingOrConsolePlayer,input,local
+ Spawn,prefab,local
+ c_announce,msg | interval | category,global
+ doreset,,local
+ c_mermking,,global
+ c_mermthrone,,global
+ c_rollback,count,global
+ c_reset,,global
+ c_regenerateshard,wipesettings,global
+ c_regenerateworld,,global
+ c_save,,global
+ c_shutdown,save,global
+ c_remote,fnstr,global
+ c_spawn,prefab | count | dontselect,global
+ dodespawn,player,local
+ c_despawn,player,global
+ c_getnumplayers,,global
+ c_getmaxplayers,,global
+ c_listplayers,,global
+ c_listallplayers,,global
+ c_sel,,global
+ c_select,inst,global
+ c_tile,,global
+ c_doscenario,scenario,global
+ c_freecrafting,,global
+ c_sel_health,,global
+ c_sethealth,n,global
+ c_setminhealth,n,global
+ c_setsanity,n,global
+ c_sethunger,n,global
+ c_setwereness,n,global
+ c_setmoisture,n,global
+ c_settemperature,n,global
+ c_connect,ip | port | password,global
+ c_give,prefab | count | dontselect,global
+ c_giveingredients,prefab,global
+ c_mat,recname,global
+ c_pos,inst,global
+ c_printpos,inst,global
+ c_teleport,x | y | z | inst,global
+ c_move,inst,global
+ c_goto,dest | inst,global
+ c_inst,guid,global
+ c_list,prefab,global
+ c_listtag,tag,global
+ c_gotoroom,roomname | inst,global
+ c_findnext,prefab | radius | inst,global
+ c_godmode,player,global
+ c_supergodmode,player,global
+ c_armor,player,global
+ c_armour,player,global
+ c_find,prefab | radius | inst,global
+ c_findtag,tag | radius | inst,global
+ c_gonext,name,global
+ c_printtextureinfo,filename,global
+ c_simphase,phase,global
+ c_countprefabs,prefab | noprint,global
+ c_counttagged,tag | noprint,global
+ c_countallprefabs,,global
+ c_speedmult,multiplier,global
+ c_dump,,global
+ c_dumpseasons,,global
+ c_dumpworldstate,,global
+ c_worldstatedebug,,global
+ c_makeinvisible,,global
+ c_selectnext,name,global
+ c_selectnear,prefab | rad,global
+ c_summondeerclops,,global
+ c_summonbearger,,global
+ c_summonmalbatross,,global
+ c_gatherplayers,,global
+ c_speedup,,global
+ c_skip,num,global
+ c_groundtype,,global
+ c_searchprefabs,str,global
+ c_maintainhealth,player | percent,global
+ c_maintainsanity,player | percent,global
+ c_maintainhunger,player | percent,global
+ c_maintaintemperature,player | temp,global
+ c_maintainmoisture,player | percent,global
+ c_maintainall,player,global
+ c_cancelmaintaintasks,player,global
+ c_removeallwithtags,...,global
+ c_netstats,,global
+ c_removeall,name,global
+ c_forcecrash,unique,global
+ c_knownassert,key,global
+ c_migrationportal,worldId | portalId,global
+ c_goadventuring,player,global
+ c_sounddebug,,global
+ c_sounddebugui,,global
+ c_migrateto,worldId | portalId,global
+ c_debugshards,,global
+ c_reregisterportals,,global
+ c_repeatlastcommand,,global
+ c_startvote,commandname | playeroruserid,global
+ c_stopvote,,global
+ c_makeboat,,global
+ c_makecrabboat,,global
+ c_makeboatspiral,,global
+ c_autoteleportplayers,,global
+ c_dumpentities,,global
+ NoteToSemitone,note,local
+ c_shellsfromtable,song | startpos | placementfn | spacing_multiplier | out_of_range_mode,global
+ c_guitartab,songdata | overrides | dont_spawn_shells,global
+ ResetControllersAndQuitGame,,global

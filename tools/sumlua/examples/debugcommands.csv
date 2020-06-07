@@ -1,0 +1,53 @@
+Name,Parameters,Scope
+ d_decodedata,path,global
+ d_domesticatedbeefalo,tendency | saddle,global
+ d_domestication,domestication | obedience,global
+ d_testwalls,,global
+ d_testruins,,global
+ d_combatgear,,global
+ d_teststate,state,global
+ d_anim,animname | loop,global
+ d_light,c1 | c2 | c3,global
+ d_combatsimulator,prefab | count | force,global
+ d_spawn_ds,prefab | scenario,global
+ d_test_thank_you,param,global
+ d_test_skins_popup,param,global
+ d_test_skins_announce,param,global
+ d_test_skins_gift,param,global
+ d_print_skin_info,,global
+ d_skin_mode,mode,global
+ d_skin_name,name,global
+ d_clothing,name,global
+ d_clothing_clear,type,global
+ d_cycle_clothing,,global
+ d_sinkhole,,global
+ d_stalkersetup,,global
+ d_resetruins,,global
+ d_getwidget,,global
+ d_halloween,,global
+ d_potions,,global
+ d_weirdfloaters,,global
+ d_wintersfeast,,global
+ d_wintersfood,,global
+ d_madsciencemats,,global
+ d_showalleventservers,,global
+ d_lavaarena_skip,,global
+ d_lavaarena_speech,dialog | banter_line,global
+ d_unlockallachievements,,global
+ d_unlockfoodachievements,,global
+ d_reportevent,other_ku,global
+ d_ground,ground,global
+ d_portalfx,,global
+ d_islandstart,,global
+ d_boatitems,,global
+ d_giveturfs,,global
+ d_spawnlayout,name | offset,global
+ d_allfish,,global
+ d_fishing,,global
+ d_tables,,global
+ d_gofishing,,global
+ d_ratracer,speed | stamina | direction | reaction,global
+ d_ratracers,,global
+ d_setup_placeholders,reuse | out_file_name,global
+ d_allshells,,global
+ d_fish,swim | r | g | b,global

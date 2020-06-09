@@ -124,4 +124,4 @@ If we only used one branch (called a centralized strategy), all commits would be
 ## Contact
 raposo.ryan@gmail.com for questions, comments, and inquiries of any kind, at any time.
 
-Always looking for: things to learn, people to learn them from, opportunities to be useful.
+Always looking for: things to learn, people to learn them from, and opportunities to be useful.

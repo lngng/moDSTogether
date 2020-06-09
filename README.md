@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="" rel="noopener">
  <img src="img/banner/modstogether-banner.png" alt="moDSTogether"></a>
@@ -14,6 +15,8 @@
 - [Tools](#tools)
   - [sumlua](#sumlua)
   - [modops](#modops)
+- [Community]()
+  - [Find a Team]()
 
 ## Installing Git
 

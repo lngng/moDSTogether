@@ -16,6 +16,7 @@
   - [sumlua](#sumlua)
   - [modops](#modops)
 - [Community]()
+  - [How it Works]()
   - [Find a Team]()
 
 ## Installing Git

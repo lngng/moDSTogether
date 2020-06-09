@@ -107,12 +107,13 @@ If we only used one branch (called a centralized strategy), all commits would be
 
 ## Tools
 
-### [sumlua](https://github.com/ryanraposo/moDSTogether/blob/master/tools/sumlua/readme.md)
+### [modops](tools/modops/README.md)
+
+### [sumlua](tools/sumlua/README.md)
 - Simple lua --> spreadsheet converter that summarizes functions with columns for *Name*, *Parameters*, and *Scope*.
 - Useful for making cheatsheets and pulling back the veil on Don't Starve Together's API.
 - See output from consolecommands.lua & debugcommands.lua in /examples for good use-cases.
 
    **NOTE:** *consolecommands.csv & debugcommands.csv (found in tools/sumlua/examples) refer to and contain extracts of material created & owned by Klei Entertainment. No copyright infringement intended, will swiftly remove on request.*
 
-### [modops](https://github.com/ryanraposo/moDSTogether/blob/master/tools/modops/readme.md)
 

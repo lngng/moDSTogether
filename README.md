@@ -122,4 +122,6 @@ If we only used one branch (called a centralized strategy), all commits would be
    **NOTE:** *consolecommands.csv & debugcommands.csv (found in tools/sumlua/examples) refer to and contain extracts of material created & owned by Klei Entertainment. No copyright infringement intended, will swiftly remove on request.*
 
 ## Contact
-raposo.ryan@gmail.com for questions, comments, and inquiries of any kind. Job opportunities especially. :)
+raposo.ryan@gmail.com for questions, comments, and inquiries of any kind, at any time.
+
+Always looking for: things to learn, people to learn them from, opportunities to be useful.

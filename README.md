@@ -18,6 +18,7 @@
 - [Community]()
   - [How it Works]()
   - [Find a Team]()
+- [Contact]()
 
 ## Installing Git
 

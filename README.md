@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="" rel="noopener">
+ <img src="img/underconstruction/under-construction.gif" alt="moDSTogether"></a>
+</p>
+
 
 <p align="center">
   <a href="" rel="noopener">
@@ -121,9 +126,11 @@ If we only used one branch (called a centralized strategy), all commits would be
 - Useful for making cheatsheets and pulling back the veil on Don't Starve Together's API.
 - See output from consolecommands.lua & debugcommands.lua in /examples for good use-cases.
 
-   **NOTE:** *consolecommands.csv & debugcommands.csv (found in tools/sumlua/examples) refer to and contain extracts of material created & owned by Klei Entertainment. No copyright infringement intended, will swiftly remove on request.*
+
 
 ## Contact
 raposo.ryan@gmail.com for questions, comments, and inquiries of any kind, at any time.
 
 Always looking for: things to learn, people to learn them from, and opportunities to be useful.
+
+   **NOTE:** The banner and *consolecommands.csv & debugcommands.csv (found in tools/sumlua/examples) refer to and contain extracts of material created & owned by Klei Entertainment. "Under Construction" gif by @jeffrey (giphy.com). No copyright infringement intended, will swiftly remove on request.*

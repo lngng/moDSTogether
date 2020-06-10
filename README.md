@@ -12,8 +12,9 @@
   - [Branches](#branches)
   - [Common Tasks](#common-tasks)
 - [Tools](#tools)
-  - [sumlua](#sumlua)
-  - [modops](#modops)
+  - [**modops**](#modops)
+  - [**nstald**](#nstald)
+  - [**sumlua**](#sumlua)
 
 ## Installing Git
 
@@ -107,10 +108,16 @@ If we only used one branch (called a centralized strategy), all commits would be
 
 ## Tools
 
-### [modops](tools/modops/README.md)
+### [**modops**](/tools/modops/README.md)
+- An all-in-one panel of tools and automations for rapid deployment/debugging of Don't Starve Together mods.
+- Useful stand-alone, or nested in moDSTogether-based projects for increased automation and itegration.
 
-### [sumlua](tools/sumlua/README.md)
-- Simple lua --> spreadsheet converter that summarizes functions with columns for *Name*, *Parameters*, and *Scope*.
+### [**nstald**](/tools/nstald/README.md)
+- Simple script that lists installed mods with their Workshop IDs/directory names.
+- Useful stand-alone, or integrated by your other custom scripts (Python).
+
+### [**sumlua**](/tools/sumlua/README.md)
+- Lua to spreadsheet (.csv) converter that summarizes functions with columns for *Name*, *Parameters*, and *Scope*.
 - Useful for making cheatsheets and pulling back the veil on Don't Starve Together's API.
 - See output from consolecommands.lua & debugcommands.lua in /examples for good use-cases.
 

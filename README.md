@@ -10,7 +10,7 @@
 </p>
 
 - [FAQ](#faq)
-    - [Q: Will I lose control of my project?](#q-will-i-lose-control-of-my-project)
+    - [Q: Do I have to surrender control of my project?](#q-do-i-have-to-surrender-control-of-my-project)
     - [Q: Doesn't GitHub mean opensource?](#q-doesnt-github-mean-opensource)
     - [Q: Do I have to use the template (or anything else)?](#q-do-i-have-to-use-the-template-or-anything-else)
     - [Q: Are there any restrictions?](#q-are-there-any-restrictions)
@@ -28,7 +28,7 @@
 
 ## FAQ
 
-#### Q: Will I lose control of my project?
+#### Q: Do I have to surrender control of my project?
 
 A: No. All situations where any amount of control is given to another require specific, additional steps from you. By default, you always make the final call on changes. We'll go over options related to permissions, including keeping total control, or using protected branches to find an ideal setup with contributors you identify.
 

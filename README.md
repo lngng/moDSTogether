@@ -34,7 +34,7 @@ A: No. All situations where any amount of control is given to another require sp
 
 #### Q: Doesn't GitHub mean opensource? 
 
-A No. You could put a project on GitHub that people are not even allowed to use, let alone modify or distrubute. In fact, this is the only assumption one can make if there is no license added, which means you could not surrender anything unless you included a document explicitly doing so. Licenses are always permissive. Your rights are yours until you say otherwise.
+A No. You could put a project (even public) on GitHub that people are not even allowed to use, let alone modify or distrubute. In fact, this is the only assumption one can make if there is no license added, which means you could not surrender anything unless you included a document explicitly doing so. Licenses are always permissive. Your rights are yours until you say otherwise.
 
 #### Q: Do I have to use the template (or anything else)?
 

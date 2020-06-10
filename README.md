@@ -1,9 +1,8 @@
+
 <p align="center">
   <a href="" rel="noopener">
  <img src="img/banner/modstogether-banner.png" alt="moDSTogether"></a>
 </p>
-
-
 
 - [Installing Git](#installing-git)
   - [Github for Desktop](#github-for-desktop)
@@ -15,6 +14,7 @@
   - [**modops**](#modops)
   - [**nstald**](#nstald)
   - [**sumlua**](#sumlua)
+- [Contact](#contact)
 
 ## Installing Git
 
@@ -123,4 +123,7 @@ If we only used one branch (called a centralized strategy), all commits would be
 
    **NOTE:** *consolecommands.csv & debugcommands.csv (found in tools/sumlua/examples) refer to and contain extracts of material created & owned by Klei Entertainment. No copyright infringement intended, will swiftly remove on request.*
 
+## Contact
+raposo.ryan@gmail.com for questions, comments, and inquiries of any kind, at any time.
 
+Always looking for: things to learn, people to learn them from, and opportunities to be useful.

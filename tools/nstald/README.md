@@ -1,6 +1,6 @@
 # nstald
 
-![nstald](/tools/modlist/img/modlist.png)
+![nstald](/tools/nstald/img/modlist.png)
 
 Simple script that lists installed mods with their workshop IDs.
 

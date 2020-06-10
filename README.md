@@ -9,6 +9,10 @@
  <img src="img/banner/modstogether-banner.png" alt="moDSTogether"></a>
 </p>
 
+- [FAQ](#faq)
+    - [Q: Will I lose control of my project?](#q-will-i-lose-control-of-my-project)
+    - [Q: Doesn't GitHub mean opensource?](#q-doesnt-github-mean-opensource)
+    - [Q: Do I have to use the template (or anything else)?](#q-do-i-have-to-use-the-template-or-anything-else)
 - [Installing Git](#installing-git)
   - [Github for Desktop](#github-for-desktop)
 - [Getting Started](#getting-started)
@@ -20,6 +24,22 @@
   - [**nstald**](#nstald)
   - [**sumlua**](#sumlua)
 - [Contact](#contact)
+
+## FAQ
+
+#### Q: Will I lose control of my project?
+
+A: No. All situations where any amount of control is given to another require specific, additional steps from you. By default, you always make the final call on changes. We'll go over options related to permissions, including keeping total control, or using protected branches to find an ideal setup with contributors you identify.
+
+
+#### Q: Doesn't GitHub mean opensource? 
+
+A No. You could put a project on GitHub that people are not even allowed to use, let alone modify or distrubute. In fact, this is the only assumption one can make if there is no license added, which means you could not surrender anything unless you included a document explicitly doing so. Licenses are always permissive. Your rights are yours until you say otherwise.
+
+#### Q: Do I have to use the template (or anything else)?
+
+A: No. The template functionality, the tools, and my advice are all free to use in part, as a whole, or not at all. I've included each in the form and arrangement they exist because I believe they'll be helpful for specific reasons, in both the individual and community's context. But you don't need to use any of it, even if you use some.
+
 
 ## Installing Git
 
@@ -133,4 +153,4 @@ raposo.ryan@gmail.com for questions, comments, and inquiries of any kind, at any
 
 Always looking for: things to learn, people to learn them from, and opportunities to be useful.
 
-   **NOTE:** The banner and *consolecommands.csv & debugcommands.csv (found in tools/sumlua/examples) refer to and contain extracts of material created & owned by Klei Entertainment. "Under Construction" gif by @jeffrey (giphy.com). No copyright infringement intended, will swiftly remove on request.*
+   **NOTE:** *The banner and consolecommands.csv & debugcommands.csv (found in tools/sumlua/examples) refer to and contain extracts of material created & owned by Klei Entertainment. "Under Construction" gif by @jeffrey (giphy.com). No copyright infringement intended, will swiftly remove on request.*

@@ -13,6 +13,7 @@
     - [Q: Will I lose control of my project?](#q-will-i-lose-control-of-my-project)
     - [Q: Doesn't GitHub mean opensource?](#q-doesnt-github-mean-opensource)
     - [Q: Do I have to use the template (or anything else)?](#q-do-i-have-to-use-the-template-or-anything-else)
+    - [Q: Are there any restrictions?](#q-are-there-any-restrictions)
 - [Installing Git](#installing-git)
   - [Github for Desktop](#github-for-desktop)
 - [Getting Started](#getting-started)
@@ -39,6 +40,10 @@ A No. You could put a project (even public) on GitHub that people are not even a
 #### Q: Do I have to use the template (or anything else)?
 
 A: No. The template functionality, the tools, and my advice are all free to use in part, as a whole, or not at all. I've included each in the form and arrangement they exist because I believe they'll be helpful for specific reasons, in both the individual and community's context. But you don't need to use any of it, even if you use some.
+
+#### Q: Are there any restrictions?
+
+A: I don't have the resources or strict ability to dictate complicated terms of use. Especially in a private setting. That said, I do reserve the right withdraw any support and endorsement indicated in this project. What I ask of those who want to take advantage of either, is that they follow the same guidelines and terms laid out by Klei for mods upladed to the Steam Workshop. Klei is cool. This game is too (still!), and what they ask of us allows them to stick around with their cool game.
 
 
 ## Installing Git

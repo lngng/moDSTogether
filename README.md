@@ -43,7 +43,7 @@ A: No. The template functionality, the tools, and my advice are all free to use 
 
 #### Q: Are there any restrictions?
 
-A: I don't have the resources or strict ability to dictate complicated terms of use. Especially in a private setting. That said, I do reserve the right withdraw any support and endorsement indicated in this project. What I ask of those who want to take advantage of either, is that they follow the same guidelines and terms laid out by Klei for mods upladed to the Steam Workshop. Klei is cool. This game is too (still!), and what they ask of us allows them to stick around with their cool game.
+A: I don't have the resources or strict ability to dictate complicated terms of use. Especially in a private setting. That said, I do reserve the right withdraw any support and endorsement indicated in this project. What I ask of those who want to take advantage of either, as well as those who would like to generate a repository based on this project using the template function, is that they follow the same guidelines and terms laid out by Klei for mods upladed to the Steam Workshop. Klei is cool. This game is too (still!), and what they ask of us allows them to stick around with their cool game.
 
 
 ## Installing Git

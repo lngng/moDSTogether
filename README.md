@@ -39,11 +39,15 @@ A No. You could put a project (even public) on GitHub that people are not even a
 
 #### Q: Do I have to use the template (or anything else)?
 
-A: No. The template functionality, the tools, and my advice are all free to use in part, as a whole, or not at all. I've included each in the form and arrangement they exist because I believe they'll be helpful for specific reasons, in both the individual and community's context. But you don't need to use any of it, even if you use some.
+A: No. The template functionality, the tools, and my advice can be used in part, as a whole, or not at all. I've included each in the form and arrangement they exist because I believe they'll be helpful for specific reasons, in both the individual and community's context. But you don't need to use any of it, even if you use some.
 
 #### Q: Are there any restrictions?
 
-A: I don't have the resources or strict ability to dictate complicated terms of use. Especially in a private setting. That said, I do reserve the right to withdraw any support and endorsement indicated in this project. Further, endorsement and/or support are never guaranteed, nor meant to be assumed in any circumstances. What I do ask of those who want to take advantage of anything within this project, as well as those who would like to generate a repository based on this project using the template function, is that they follow guidelines and terms laid out by Klei wherever applicable, including and especially those that apply to mods upladed to the Steam Workshop. Klei is cool. This game is too (still!), and what they ask of us allows them to stick around with their cool game. I want to help the modding community, but never at a cost to them. Please respect the guidelines.
+A: I don't have the resources, intention, or strict ability to dictate complicated terms of use. I reserve all rights. Endorsement and/or support are never guaranteed, nor meant to be assumed in any circumstances. 
+
+What I ask of those who want to take advantage of anything within this project, as well as those who would like to generate a repository based on this project using the template function, is that they follow guidelines and terms laid out by Klei wherever applicable, including and especially those that apply to mods upladed to the Steam Workshop. Klei is cool. This game is too (still!), and what they ask of us allows them to stick around with their cool game. I want to help the modding community, but never at a cost to them. Please respect the guidelines.
+
+**This is meant to be a way to connect  and enable passionate creators who want to learn, have fun, and make cool things together. It is NOT for those who would like to circumvent Klei's Steam Workshop rules by hosting them on GitHub. Kindly leave me out of that.**
 
 
 ## Installing Git

@@ -2,7 +2,7 @@
 name: Introduce your Mod
 about: Fill in any details you can to list your mod on the board!
 title: "[MOD]"
-labels: ''
+labels: mod
 assignees: ''
 
 ---

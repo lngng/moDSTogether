@@ -14,5 +14,3 @@ assignees: ''
 ### What are some things you can teach? (ex. people skills, storytelling, digital art, git knowledge... anything at all!)
 
 ### List anything you want about any modding experience you have: (Not required!)
-
-### How can we contact you? Leave blank to restrict to comments on this listing.

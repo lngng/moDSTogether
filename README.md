@@ -23,6 +23,8 @@
   - [Branches](#branches)
   - [Scenarios & How-To's](#scenarios--how-tos)
 - [Find a Team](#find-a-team)
+  - [Mod Owners](#mod-owners)
+  - [Modders](#modders)
 - [Tools](#tools)
   - [**modops**](#modops)
   - [**nstald**](#nstald)
@@ -157,6 +159,15 @@ If we only used one branch (called a centralized strategy), all commits would be
 ### Scenarios & How-To's
 
 ## Find a Team
+
+### Mod Owners
+List your project [here.](https://github.com/ryanraposo/moDSTogether/issues/new?assignees=&labels=mod&template=introduce-your-mod-.md&title=%5BMOD%5D)
+
+### Modders
+
+No matter your background or experience, you have something that good mods need! Create a listing [here.](https://github.com/ryanraposo/moDSTogether/issues/new?assignees=&labels=modder&template=introduce-yourself--no-experience-required-.md&title=%5BWANT+TO+HELP%5D+title)
+
+Note: If you're unsure about how you could help, post with **anything** you're good at, enjoy doing, or are interested in. I am making it my top priority in managing this project to help you figure out just what that is, and I invite other modders to do the same. The skills you don't have came later for many, many modders! 
 
 ## Tools
 

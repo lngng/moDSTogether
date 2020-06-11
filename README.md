@@ -155,6 +155,7 @@ If we only used one branch (called a centralized strategy), all commits would be
 
 ### Scenarios & How-To's
 
+## Find a Team
 
 ## Tools
 

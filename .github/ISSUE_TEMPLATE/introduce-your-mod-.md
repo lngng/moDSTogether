@@ -17,6 +17,4 @@ assignees: ''
 
 # Ideas you have for the mod:
 
-# Ways to get in touch:
-
 # Link(s) to your mod:

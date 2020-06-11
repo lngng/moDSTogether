@@ -10,61 +10,53 @@
 </p>
 
 - [FAQ](#faq)
-    - [Q: Do I have to surrender control of my project?](#q-do-i-have-to-surrender-control-of-my-project)
-    - [Q: I don't have a project, or I just want to help. Can I do anything?](#q-i-dont-have-a-project-or-i-just-want-to-help-can-i-do-anything)
-    - [Q: Isn't GitHub for open source projects?](#q-isnt-github-for-open-source-projects)
-    - [Q: Okay, so I'm clear on things in legal terms. But I kinda still want to keep development private. Can I still collaborate?](#q-okay-so-im-clear-on-things-in-legal-terms-but-i-kinda-still-want-to-keep-development-private-can-i-still-collaborate)
-    - [Q: Do I have to use the template (or anything else)?](#q-do-i-have-to-use-the-template-or-anything-else)
-    - [Q: Sometimes I start a git tutorial, and everything is great. But then I think about making a mistake, or a commitment I might regret, or added stress. This is because I'm aware I might not get it quite as well as is apparent, being a rational person. Back to copy/paste I go. Do you feel me?](#q-sometimes-i-start-a-git-tutorial-and-everything-is-great-but-then-i-think-about-making-a-mistake-or-a-commitment-i-might-regret-or-added-stress-this-is-because-im-aware-i-might-not-get-it-quite-as-well-as-is-apparent-being-a-rational-person-back-to-copypaste-i-go-do-you-feel-me)
-    - [Q: Are there any restrictions?](#q-are-there-any-restrictions)
 - [Installing Git](#installing-git)
-  - [Github for Desktop](#github-for-desktop)
 - [Getting Started](#getting-started)
 - [Moving Forward](#moving-forward)
   - [Branches](#branches)
   - [Scenarios & How-To's](#scenarios--how-tos)
+- [Tools](#tools)
+  - [modops](#modops)
+  - [nstald](#nstald)
+  - [sumlua](#sumlua)
 - [Find a Team](#find-a-team)
   - [Mod Owners](#mod-owners)
   - [Modders](#modders)
-- [Tools](#tools)
-  - [**modops**](#modops)
-  - [**nstald**](#nstald)
-  - [**sumlua**](#sumlua)
 - [Contact](#contact)
 
 ## FAQ
 
-#### Q: Do I have to surrender control of my project?
+**Q: Do I have to surrender control of my project?**
 
-A: No. All situations where any amount of control is given to another require specific, additional steps from you. By default, you always make the final call on changes. We'll go over options related to permissions, including keeping total control, or using protected branches to find an ideal setup with contributors you identify.
+No. All situations where any amount of control is given to another require specific, additional steps from you. By default, you always make the final call on changes. We'll go over options related to permissions, including keeping total control, or using protected branches to find an ideal setup with contributors you identify.
 
-#### Q: I don't have a project, or I just want to help. Can I do anything?
+**Q: I don't have a project, or I just want to help. Can I do anything?**
 
-A: Yes, visit the Modders section [here](#modders).
+Yes, visit the Modders section [here](#modders).
 
-#### Q: Isn't GitHub for open source projects? 
+**Q: Isn't GitHub for open source projects?**
 
-A No. You could put a project (even public) on GitHub that people are not even allowed to use, let alone modify or distrubute. In fact, this is the only assumption one can make if there is no license added, which means you could not surrender anything unless you included a document explicitly doing so. Licenses are always permissive. Your rights are yours until you say otherwise.
+No. You could put a project (even public) on GitHub that people are not even allowed to use, let alone modify or distrubute. In fact, this is the only assumption one can make if there is no license added, which means you could not surrender anything unless you included a document explicitly doing so. Licenses are always permissive. Your rights are yours until you say otherwise.
 
-#### Q: Okay, so I'm clear on things in legal terms. But I kinda still want to keep development private. Can I still collaborate?
+**Q: Okay, so I'm clear on things in legal terms. But I kinda still want to keep development private. Can I still collaborate?**
 
-A: Yes, I'll explain how, and I want to take this opportunity to validate your decision to do that. There *is* a consideration that the open-source community, license drafters, and courts do not and cannot reasonably weigh in on: your feeling on things. Do not let current discussion have you feeling that your decision to share your passion with other people is actually a step in the wrong direction. The culture right now doesn't do this segment of the community right, if only by oversight, so I'd like to reassure you. Are there benefits to going public? I think so, and they will be discussed and leveraged here but *moDSTogether* is still for you if you choose to remain private. No sweat.
+Yes, I'll explain how, and I want to take this opportunity to validate your decision to do that. There *is* a consideration that the open-source community, license drafters, and courts do not and cannot reasonably weigh in on: your feeling on things. Do not let current discussion have you feeling that your decision to share your passion with other people is actually a step in the wrong direction. The culture right now doesn't do this segment of the community right, if only by oversight, so I'd like to reassure you. Are there benefits to going public? I think so, and they will be discussed and leveraged here but *moDSTogether* is still for you if you choose to remain private. No sweat.
 
 I love open-source! But this project is meant to help you feel comfortable and equipped to work with others - not accelerate you into the hyper-transparent software economy of 2090.
 
-#### Q: Do I have to use the template (or anything else)?
+**Q: Do I have to use the template (or anything else)?**
 
-A: No. The template functionality, the tools, and my advice can be used in part, as a whole, or not at all. I've included each in the form and arrangement they exist because I believe they'll be helpful for specific reasons, in both the individual and community's context. But you don't need to use any of it, even if you use some.
+No. The template functionality, the tools, and my advice can be used in part, as a whole, or not at all. I've included each in the form and arrangement they exist because I believe they'll be helpful for specific reasons, in both the individual and community's context. But you don't need to use any of it, even if you use some.
 
-#### Q: Sometimes I start a git tutorial, and everything is great. But then I think about making a mistake, or a commitment I might regret, or added stress. This is because I'm aware I might not get it quite as well as is apparent, being a rational person. Back to copy/paste I go. Do you feel me?
+**Q: Sometimes I start a git tutorial, and everything is great. But then I think about making a mistake, or a commitment I might regret, or added stress. This is because I'm aware I might not get it quite as well as is apparent, being a rational person. Back to copy/paste I go. Do you feel me?**
 
-A: Yes, I do feel you. Now, and for all my time spent coming up with a plan. But you're in my heart and we can do this. If I'm setting out to do anything, it's check in on that possibility for the both of us, and give us a lifeline at every stage. If you screw up like me, you'll be looked after.
+Yes, I do feel you. Now, and for all my time spent coming up with a plan. But you're in my heart and we can do this. If I'm setting out to do anything, it's check in on that possibility for the both of us, and give us a lifeline at every stage. If you screw up like me, you'll be looked after.
 
 I'm doing my very best to ask 'Is this necessary?' before recommending or technical-naming *anything*. If something looks like jargon, keep your understanding. If you can live without the benefits of a certain step, do so, and then add me on Discord (ryanraposo #6339) and if I can, I'll help you make it work. That's what this is about.
 
-#### Q: Are there any restrictions?
+**Q: Are there any restrictions?**
 
-A: I don't have the resources, intention, or strict ability to dictate complicated terms of use. I reserve my rights. Endorsement and/or support are never guaranteed, nor meant to be assumed in any circumstances. 
+I don't have the resources, intention, or strict ability to dictate complicated terms of use. I reserve my rights. Endorsement and/or support are never guaranteed, nor meant to be assumed in any circumstances. 
 
 What I ask of those who want to take advantage of anything within this project, as well as those who would like to generate a repository based on this project using the template function, is that they follow guidelines and terms laid out by Klei wherever applicable, including and especially those that apply to mods uploaded to the Steam Workshop. Klei is cool. This game is too (still!), and what they ask of us allows them to stick around with their cool game. I want to help the modding community, but never at a cost to them. Please respect the guidelines.
 
@@ -77,7 +69,7 @@ There are a few options for using git to track a project. Behind all of them is 
 
 There happens to be a desktop git solution made by GitHub and it doesn't suck, so we'll use that for now.
 
-### [Github for Desktop](https://desktop.github.com/)
+Download **[Github for Desktop](https://desktop.github.com/)**.
 
 I recommend this route for now because:
 
@@ -162,11 +154,26 @@ If we only used one branch (called a centralized strategy), all commits would be
 
 ### Scenarios & How-To's
 
+## Tools
+
+### [modops](/tools/modops/README.md)
+- An all-in-one panel of tools and automations for rapid deployment/debugging of Don't Starve Together mods.
+- Useful stand-alone, or nested in moDSTogether-based projects for increased automation and itegration.
+
+### [nstald](/tools/nstald/README.md)
+- Simple script that lists installed mods with their Workshop IDs/directory names.
+- Useful stand-alone, or integrated by your other custom scripts (Python).
+
+### [sumlua](/tools/sumlua/README.md)
+- Lua to spreadsheet (.csv) converter that summarizes functions with columns for *Name*, *Parameters*, and *Scope*.
+- Useful for making cheatsheets and pulling back the veil on Don't Starve Together's API.
+- See output from consolecommands.lua & debugcommands.lua in /examples for good use-cases.
+
 ## Find a Team
 
-The project will use GitHub's Issues system on this repository to allow listings for mods, and those who want to help with them. 
-
 **IMPORTANT:** No personal information allowed other than usernames, nicknames, or first names.
+
+The project will use GitHub's Issues system on this repository to allow listings for mods, and those who want to help with them. 
 
 ### Mod Owners
 Introuduce your mod [here.](https://github.com/ryanraposo/moDSTogether/issues/new?assignees=&labels=mod&template=introduce-your-mod-.md&title=%5BMOD%5D)
@@ -175,23 +182,7 @@ Introuduce your mod [here.](https://github.com/ryanraposo/moDSTogether/issues/ne
 
 No matter your background or experience, you have something that good mods need! Create a listing [here.](https://github.com/ryanraposo/moDSTogether/issues/new?assignees=&labels=modder&template=introduce-yourself--no-experience-required-.md&title=%5BWANT+TO+HELP%5D+title)
 
-Note: If you're unsure about how you could help, post with **anything** you're good at, enjoy doing, or are interested in. I am making it my top priority in managing this project to help you figure out just what that is, and I invite other modders to do the same. The skills you don't have came later for many, many modders! 
-
-## Tools
-
-### [**modops**](/tools/modops/README.md)
-- An all-in-one panel of tools and automations for rapid deployment/debugging of Don't Starve Together mods.
-- Useful stand-alone, or nested in moDSTogether-based projects for increased automation and itegration.
-
-### [**nstald**](/tools/nstald/README.md)
-- Simple script that lists installed mods with their Workshop IDs/directory names.
-- Useful stand-alone, or integrated by your other custom scripts (Python).
-
-### [**sumlua**](/tools/sumlua/README.md)
-- Lua to spreadsheet (.csv) converter that summarizes functions with columns for *Name*, *Parameters*, and *Scope*.
-- Useful for making cheatsheets and pulling back the veil on Don't Starve Together's API.
-- See output from consolecommands.lua & debugcommands.lua in /examples for good use-cases.
-
+Note: If you're unsure about how you could help, post with *anything* you're good at, enjoy doing, or are interested in. I am making it my top priority in managing this project to help you figure out just what that is, and I invite other modders to do the same. The skills you don't have came later for many, many modders! 
 
 
 ## Contact

@@ -52,7 +52,7 @@ What I ask of those who want to take advantage of anything within this project, 
 
 ## Installing Git
 
-There are a few options for using git to track a project. Behind all of them is the same command-based system that you're probably somewhat familiar with. Paired with a hosting option, a git-tracked project can extend those commands and its endless benefits to a team of any size. We'll be using GitHub to host ours.
+There are a few options for using git to track a project. Behind all of them is the same command-based system that you might be somewhat familiar with. Paired with a hosting option, a git-tracked project can extend those commands and its endless benefits to a team of any size. We'll be using GitHub to host ours. To use git itself, we need to setup a few things on our machines.
 
 There happens to be a desktop git solution made by GitHub and it doesn't suck, so we'll use that for now.
 
@@ -75,6 +75,8 @@ I recommend this route for now because:
     - Remotes (hosted repositories)
 
 ## Getting Started
+
+This section assumes use of Github for Desktop, if you are using something else that won't be a problem as far as my offerings go. If, though, you have trouble with these steps in your setup, I highly recommend trying it out.
 
 1. **Click 'Use this template'** (pictured below) to start your own repository with included tools, documentation, and file-structure to help jump-start collaboration on your mod.
    

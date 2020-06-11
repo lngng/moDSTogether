@@ -12,6 +12,7 @@
 - [FAQ](#faq)
     - [Q: Do I have to surrender control of my project?](#q-do-i-have-to-surrender-control-of-my-project)
     - [Q: Doesn't GitHub mean opensource?](#q-doesnt-github-mean-opensource)
+    - [Q: Okay, so I'm clear on things in legal terms. But I kinda still want to keep development private. Can I still collaborate?](#q-okay-so-im-clear-on-things-in-legal-terms-but-i-kinda-still-want-to-keep-development-private-can-i-still-collaborate)
     - [Q: Do I have to use the template (or anything else)?](#q-do-i-have-to-use-the-template-or-anything-else)
     - [Q: Sometimes I start a git tutorial, and everything is great. But then I think about making a mistake, or a commitment I might regret, or added stress. This is because I'm aware I might not get it quite as well as is apparent, being a rational person. Back to copy/paste I go. Do you feel me?](#q-sometimes-i-start-a-git-tutorial-and-everything-is-great-but-then-i-think-about-making-a-mistake-or-a-commitment-i-might-regret-or-added-stress-this-is-because-im-aware-i-might-not-get-it-quite-as-well-as-is-apparent-being-a-rational-person-back-to-copypaste-i-go-do-you-feel-me)
     - [Q: Are there any restrictions?](#q-are-there-any-restrictions)
@@ -38,6 +39,12 @@ A: No. All situations where any amount of control is given to another require sp
 
 A No. You could put a project (even public) on GitHub that people are not even allowed to use, let alone modify or distrubute. In fact, this is the only assumption one can make if there is no license added, which means you could not surrender anything unless you included a document explicitly doing so. Licenses are always permissive. Your rights are yours until you say otherwise.
 
+#### Q: Okay, so I'm clear on things in legal terms. But I kinda still want to keep development private. Can I still collaborate?
+
+A: Yes, I'll explain how, and I want to take this opportunity to validate your decision to do that. There *is* a consideration that the open-source community, license drafters, and courts do not and cannot reasonably weigh in on: your feeling on things, and ultimate freedom in this decision with zero explanation. Do not let current discussion have you feeling that your decision to share your passion with other people is actually a step in the wrong direction. The culture right now doesn't do this segment of the community right, if only by oversight, so I'd like to reassure you. Are there benefits of publicly affiliating? I think so, but moreso I understand your concerns. No sweat.
+
+Don't spend a second coming up with a reason, because you don't need one. I love open-source! But this project is meant to help you feel comfortable and equipped to work with others - not accelerate you into the hyper-transparent software economy of 2090.
+
 #### Q: Do I have to use the template (or anything else)?
 
 A: No. The template functionality, the tools, and my advice can be used in part, as a whole, or not at all. I've included each in the form and arrangement they exist because I believe they'll be helpful for specific reasons, in both the individual and community's context. But you don't need to use any of it, even if you use some.
@@ -46,7 +53,7 @@ A: No. The template functionality, the tools, and my advice can be used in part,
 
 A: Yes, I do feel you. Now, and for all my time spent coming up with a plan. But you're in my heart and we can do this. If I'm setting out to do anything, it's check in on that possibility for the both of us, and give us a lifeline at every stage. If you screw up like me, you'll be looked after.
 
-I have done my very best to ask 'Is this necessary?' before recommending or technical-naming *anything*. If something looks like jargon, keep your understanding. If you can live without the benefits of a certain step, do so, and then add me on Discord (ryanraposo #6339) and if I can, I'll help you make it work. That's what this is about.
+I'm doing my very best to ask 'Is this necessary?' before recommending or technical-naming *anything*. If something looks like jargon, keep your understanding. If you can live without the benefits of a certain step, do so, and then add me on Discord (ryanraposo #6339) and if I can, I'll help you make it work. That's what this is about.
 
 #### Q: Are there any restrictions?
 

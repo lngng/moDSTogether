@@ -11,7 +11,8 @@
 
 - [FAQ](#faq)
     - [Q: Do I have to surrender control of my project?](#q-do-i-have-to-surrender-control-of-my-project)
-    - [Q: Doesn't GitHub mean opensource?](#q-doesnt-github-mean-opensource)
+    - [Q: I don't have a project, or I just want to help. Can I do anything?](#q-i-dont-have-a-project-or-i-just-want-to-help-can-i-do-anything)
+    - [Q: Isn't GitHub for open source projects?](#q-isnt-github-for-open-source-projects)
     - [Q: Okay, so I'm clear on things in legal terms. But I kinda still want to keep development private. Can I still collaborate?](#q-okay-so-im-clear-on-things-in-legal-terms-but-i-kinda-still-want-to-keep-development-private-can-i-still-collaborate)
     - [Q: Do I have to use the template (or anything else)?](#q-do-i-have-to-use-the-template-or-anything-else)
     - [Q: Sometimes I start a git tutorial, and everything is great. But then I think about making a mistake, or a commitment I might regret, or added stress. This is because I'm aware I might not get it quite as well as is apparent, being a rational person. Back to copy/paste I go. Do you feel me?](#q-sometimes-i-start-a-git-tutorial-and-everything-is-great-but-then-i-think-about-making-a-mistake-or-a-commitment-i-might-regret-or-added-stress-this-is-because-im-aware-i-might-not-get-it-quite-as-well-as-is-apparent-being-a-rational-person-back-to-copypaste-i-go-do-you-feel-me)
@@ -37,8 +38,11 @@
 
 A: No. All situations where any amount of control is given to another require specific, additional steps from you. By default, you always make the final call on changes. We'll go over options related to permissions, including keeping total control, or using protected branches to find an ideal setup with contributors you identify.
 
+#### Q: I don't have a project, or I just want to help. Can I do anything?
 
-#### Q: Doesn't GitHub mean opensource? 
+A: Yes, visit the Modders section [here](#modders).
+
+#### Q: Isn't GitHub for open source projects? 
 
 A No. You could put a project (even public) on GitHub that people are not even allowed to use, let alone modify or distrubute. In fact, this is the only assumption one can make if there is no license added, which means you could not surrender anything unless you included a document explicitly doing so. Licenses are always permissive. Your rights are yours until you say otherwise.
 
@@ -160,8 +164,12 @@ If we only used one branch (called a centralized strategy), all commits would be
 
 ## Find a Team
 
+The project will use GitHub's Issues system on this repository to allow listings for mods, and those who want to help with them. 
+
+**IMPORTANT:** No personal information allowed other than usernames, nicknames, or first names.
+
 ### Mod Owners
-List your project [here.](https://github.com/ryanraposo/moDSTogether/issues/new?assignees=&labels=mod&template=introduce-your-mod-.md&title=%5BMOD%5D)
+Introuduce your mod [here.](https://github.com/ryanraposo/moDSTogether/issues/new?assignees=&labels=mod&template=introduce-your-mod-.md&title=%5BMOD%5D)
 
 ### Modders
 

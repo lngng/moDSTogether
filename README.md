@@ -13,6 +13,7 @@
     - [Q: Do I have to surrender control of my project?](#q-do-i-have-to-surrender-control-of-my-project)
     - [Q: Doesn't GitHub mean opensource?](#q-doesnt-github-mean-opensource)
     - [Q: Do I have to use the template (or anything else)?](#q-do-i-have-to-use-the-template-or-anything-else)
+    - [Q: Sometimes I start a git tutorial, and everything is great. But then I think about making a mistake, or a commitment I might regret, or added stress. This is because I'm aware I might not get it quite as well as is apparent, being a rational person. Back to copy/paste I go. Do you feel me?](#q-sometimes-i-start-a-git-tutorial-and-everything-is-great-but-then-i-think-about-making-a-mistake-or-a-commitment-i-might-regret-or-added-stress-this-is-because-im-aware-i-might-not-get-it-quite-as-well-as-is-apparent-being-a-rational-person-back-to-copypaste-i-go-do-you-feel-me)
     - [Q: Are there any restrictions?](#q-are-there-any-restrictions)
 - [Installing Git](#installing-git)
   - [Github for Desktop](#github-for-desktop)
@@ -40,6 +41,10 @@ A No. You could put a project (even public) on GitHub that people are not even a
 #### Q: Do I have to use the template (or anything else)?
 
 A: No. The template functionality, the tools, and my advice can be used in part, as a whole, or not at all. I've included each in the form and arrangement they exist because I believe they'll be helpful for specific reasons, in both the individual and community's context. But you don't need to use any of it, even if you use some.
+
+#### Q: Sometimes I start a git tutorial, and everything is great. But then I think about making a mistake, or a commitment I might regret, or added stress. This is because I'm aware I might not get it quite as well as is apparent, being a rational person. Back to copy/paste I go. Do you feel me?
+
+A: Yes, I do feel you. Now, and for all my time spent coming up with a plan. But you're in my heart and we can do this. If I'm setting out to do anything, it's check in on that possibility for the both of us, and give us a lifeline at every stage. If you screw up like me, you'll be looked after.
 
 #### Q: Are there any restrictions?
 

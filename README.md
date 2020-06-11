@@ -57,7 +57,7 @@ I'm doing my very best to ask 'Is this necessary?' before recommending or techni
 
 #### Q: Are there any restrictions?
 
-A: I don't have the resources, intention, or strict ability to dictate complicated terms of use. I reserve all rights. Endorsement and/or support are never guaranteed, nor meant to be assumed in any circumstances. 
+A: I don't have the resources, intention, or strict ability to dictate complicated terms of use. I reserve my rights. Endorsement and/or support are never guaranteed, nor meant to be assumed in any circumstances. 
 
 What I ask of those who want to take advantage of anything within this project, as well as those who would like to generate a repository based on this project using the template function, is that they follow guidelines and terms laid out by Klei wherever applicable, including and especially those that apply to mods uploaded to the Steam Workshop. Klei is cool. This game is too (still!), and what they ask of us allows them to stick around with their cool game. I want to help the modding community, but never at a cost to them. Please respect the guidelines.
 

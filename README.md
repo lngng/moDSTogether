@@ -20,7 +20,7 @@
 - [Getting Started](#getting-started)
 - [Moving Forward](#moving-forward)
   - [Branches](#branches)
-  - [Common Tasks](#common-tasks)
+  - [Scenarios & How-To's](#scenarios--how-tos)
 - [Tools](#tools)
   - [**modops**](#modops)
   - [**nstald**](#nstald)
@@ -46,18 +46,20 @@ A: No. The template functionality, the tools, and my advice can be used in part,
 
 A: Yes, I do feel you. Now, and for all my time spent coming up with a plan. But you're in my heart and we can do this. If I'm setting out to do anything, it's check in on that possibility for the both of us, and give us a lifeline at every stage. If you screw up like me, you'll be looked after.
 
+I have done my very best to ask 'Is this necessary?' before recommending or technical-naming *anything*. If something looks like jargon, keep your understanding. If you can live without the benefits of a certain step, do so, and then add me on Discord (ryanraposo #6339) and if I can, I'll help you make it work. That's what this is about.
+
 #### Q: Are there any restrictions?
 
 A: I don't have the resources, intention, or strict ability to dictate complicated terms of use. I reserve all rights. Endorsement and/or support are never guaranteed, nor meant to be assumed in any circumstances. 
 
-What I ask of those who want to take advantage of anything within this project, as well as those who would like to generate a repository based on this project using the template function, is that they follow guidelines and terms laid out by Klei wherever applicable, including and especially those that apply to mods upladed to the Steam Workshop. Klei is cool. This game is too (still!), and what they ask of us allows them to stick around with their cool game. I want to help the modding community, but never at a cost to them. Please respect the guidelines.
+What I ask of those who want to take advantage of anything within this project, as well as those who would like to generate a repository based on this project using the template function, is that they follow guidelines and terms laid out by Klei wherever applicable, including and especially those that apply to mods uploaded to the Steam Workshop. Klei is cool. This game is too (still!), and what they ask of us allows them to stick around with their cool game. I want to help the modding community, but never at a cost to them. Please respect the guidelines.
 
-**This is meant to be a way to connect  and enable passionate creators who want to learn, have fun, and make cool things together. It is NOT for those who would like to circumvent Klei's Steam Workshop rules by hosting them on GitHub. Kindly leave me out of that.**
+**This is meant to be a way to connect  and enable passionate creators who want to learn, have fun, and make cool things together. It is NOT for those who would like to circumvent Klei's Steam Workshop rules by hosting them on GitHub. Kindly leave me and this project out of that.**
 
 
 ## Installing Git
 
-There are a few options for using git to track a project. Behind all of them is the same command-based system that you might be somewhat familiar with. Paired with a hosting option, a git-tracked project can extend those commands and its endless benefits to a team of any size. We'll be using GitHub to host ours. To use git itself, we need to setup a few things on our machines.
+There are a few options for using git to track a project. Behind all of them is the same command-based system that you might be somewhat familiar with. Paired with a hosting option, a git-tracked project can extend those commands and its endless benefits to a team of any size. We'll be using GitHub to host ours. To use git itself, we need to set-up a few things on our machines.
 
 There happens to be a desktop git solution made by GitHub and it doesn't suck, so we'll use that for now.
 
@@ -144,7 +146,7 @@ The items below would represent those of our *development* branch, which contain
 If we only used one branch (called a centralized strategy), all commits would be like those I just described. But, in the interest of organization, project-manageability, easier collaboration and effective use of git just generally, we employed some others.
 
 
-### Common Tasks
+### Scenarios & How-To's
 
 
 ## Tools

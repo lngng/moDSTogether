@@ -1,6 +1,6 @@
 ---
 name: Introduce yourself. No experience required.
-about: Fill in any details you are comfortable sharing to help a team find you!
+about: 'Fill in any sections you are comfortable sharing to help a team find you! '
 title: "[MODDER] title"
 labels: modder
 assignees: ''

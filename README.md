@@ -22,6 +22,7 @@
 - [Moving Forward](#moving-forward)
   - [Branches](#branches)
   - [Scenarios & How-To's](#scenarios--how-tos)
+- [Find a Team](#find-a-team)
 - [Tools](#tools)
   - [**modops**](#modops)
   - [**nstald**](#nstald)

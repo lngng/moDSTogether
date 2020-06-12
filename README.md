@@ -191,7 +191,7 @@ You can and will have to make those decisions, as I do at every practical step i
 
 It just promises to do what you tell it, so know that. Know why you use each part of the command you're typing if you use them. Especially if its an 'f'. We can mash CTRL+S and CTRL+Z safely only because of how incapable they really are. 
 
-Bottom line: git doesn't need to be git do what we're trying to do, but it is. If you're excited to really get into it, thats great! It's useful and enabling of teamwork. But be respectful of modders who are not so excited that it's part of finding a few friends who share a hobby. Its an unfortunate obstacle for them, if only for a time. Please teach (or hold back) where it would be helpful, and remember its a skill like any other. Many project owners would appreciate that sort of help, but its the least common.
+Bottom line: git doesn't need to be git to do what we're trying to do, but it is. If you're excited to really get into it, thats great! It's useful and enabling of teamwork. But be respectful of modders who are not so excited that it's part of finding a few friends who share a hobby. Its an unfortunate obstacle for them, if only for a time. Please teach (or hold back) where it would be helpful, and remember its a skill like any other. Many project owners would appreciate that sort of help, but its the least common.
 
 ### Scenarios & How-To's
 

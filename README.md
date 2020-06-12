@@ -39,21 +39,25 @@ No, but after reading the FAQ you might want to skip to [Moving Forward](#moving
 
 Great news! I hope you have [time](#contact), also.
 
+**Q: I had trouble with the format of the guide at times. What now?
+
+If the pace is wrong, or the tone somewhere in this guide isn't relevant to you, I'm sorry. Supplementing existing tutorials on this subject is a challenge. I hope I've included something for you. 
+
 **Q: Isn't GitHub only for open source projects?**
 
-No. You could put a project (even public) on GitHub that people are not even allowed to use, let alone modify or distrubute. In fact, this is the only assumption one can make if there is no license added, which means you could not surrender anything unless you included a document explicitly doing so. Licenses are always permissive. Your rights are yours until you say otherwise.
+No. You could put a project (even public) on GitHub that people are not allowed to use, let alone modify or distrubute. In fact, this is the only assumption one can make if there is no license added, which means you could not surrender anything unless you included a document explicitly doing so. Licenses are always permissive. Your rights are yours until you say otherwise.
 
 **Q: Okay, so I'm clear on things in legal terms. But I kinda still want to keep development private. Can I still collaborate?**
 
-Yes, I'll explain how, and I want to take this opportunity to validate your decision to do that. There *is* a consideration that the open-source community, license drafters, and courts do not and cannot reasonably weigh in on: your feeling on things. Do not let current discussion have you feeling that your decision to share your passion with other people is actually a step in the wrong direction. The culture right now doesn't do this segment of the community right, if only by oversight, so I'd like to reassure you. Are there benefits to going public? I think so, and they will be discussed and leveraged here but *moDSTogether* is still for you if you choose to remain private. No sweat.
+Yes, I'll explain how, and I want to take this opportunity to validate your decision to do that. There *is* a consideration that the open-source community, license drafters, and courts do not and cannot reasonably weigh in on: your feeling on things. Do not let current discussion have you feeling that your decision to share your passion with other people is actually, in the end, a step in the wrong direction. Are there benefits to going public? I think so, and they will be discussed and leveraged here but *moDSTogether* is still for you if you choose to remain private. No sweat.
 
-I love open-source! But this project is meant to help you feel comfortable and equipped to work with others - not accelerate you into the hyper-transparent software economy of 2090.
+I love open-source! But this project is meant to help you feel comfortable and equipped to work with others - not accelerate you into the hyper-transparent software economy of 2090.  
 
 **Q: Do I have to use the template (or anything else)?**
 
-The template functionality, the tools, and my strategies can be used in part, as a whole, or not at all. I've included each in the form and arrangement they exist because I believe they'll be helpful for specific reasons, in both the individual and community's context. 
+If you decide you'd like to include this document, please include it in it's entirety, with any name and in any location within the repository. 
 
-If you decide to include this document, please include it in it's entirety, with any name and in any location within the repository. Thank you.
+Everything else can be used in part, as a whole, or not at all. I've included each in the form and arrangement they exist because I believe they'll be helpful for specific reasons, in both the individual and community context- but you don't need to use anything. 
 
 **Q: Sometimes I start a git tutorial, and everything is great. But then I think about making a mistake, or a commitment I might regret, or added stress. This is because I'm aware I might not get it quite as well as is apparent, being a rational person. Do you feel me?**
 
@@ -65,12 +69,7 @@ I'm doing my very best to ask 'Is this necessary?' before recommending or techni
 
 **Q: Are there any restrictions?**
 
-I don't have the resources, intention, or strict ability to dictate complicated terms of use. I reserve my rights. Endorsement and/or support are never guaranteed, nor meant to be assumed in any circumstances. 
-
-What I ask of those who want to take advantage of anything within this project, as well as those who would like to generate a repository based on this project using the template function, is that they follow guidelines and terms laid out by Klei wherever applicable, including and especially those that apply to mods uploaded to the Steam Workshop. Klei is cool. This game is too (still!), and what they ask of us allows them to stick around with their cool game. I want to help the modding community, but never at a cost to them. Please respect the guidelines.
-
-**This is meant to be a way to connect  and enable passionate creators who want to learn, have fun, and make cool things together. It is NOT for those who would like to circumvent Klei's Steam Workshop rules by hosting them on GitHub. Kindly leave me and this project out of that.**
-
+If you would like to use any part of the repo or support the project by including this document, please include it in its entirety. You may rename it or move it anywhere within your repository. Please also be respectful Klei's guidelines surrounding mods. They deserve it. Note that Klei is not associated with this project.
 
 ## Installing Git
 

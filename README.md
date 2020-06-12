@@ -181,17 +181,25 @@ There aren't answers you're supposed to have after considering each of those que
 
 ### How do I know if I'm getting it?
 
-Keep. Your. Understanding. It will be enough to proceed. I have a theory that git is a topic that makes us doubt that fact like little else in tech. Why? You're on a page about modifying video games, surely you can at least move forward in learning about it? Can you even name other tech that made you question that?
+Keep your understanding. Trust that when it is challenged and updated, it won't be catastrophic.
 
-It could be because the opposite of what it promises is just terrifying. But this is moot; git doesn't actively suststain your project. It doesn't destroy your project if called off. It doesn't hide the keys to your project if you look at it wrong. It just watches it, closely enough to recreate and renact moments from it. If we dont set it up and use it right it might be hazy on recall, but it isn't out to do damage and most setups warn twice for every warning that is guaranteed.
+It will be enough to proceed. Git is a topic that makes us doubt that fact.
 
-In its own defence Git would argue that saving with control + s is destructive and remind that undo is reliable, only until its not. Git would ask how many warnings were issued during both. Or if you stopped needing them when they stopped working. It would notice that a console is painful when you use absolutely no visual interface at the moment.
+But why? You're on a page about modifying video games, surely you can at least move forward in learning about it? Can you even name other tech that made you question that?
+
+It could be because the opposite of what it promises is just terrifying. But this is moot; git doesn't actively suststain your project. It doesn't destroy your project if called off. It just watches it, closely enough to recreate and renact.
+
+If we don't point it at important things, and tell it why we value them it will be useless. Its a tool that doesn't discriminate except based on your instruction. You decide whats important, in which situations, and managing to do that with a group is only feasible because git is like that.
+
+You can and will have to make those decisions, as I do at every practical step in the guide. Do this freely. Perfect, command-fluent use is something I could never teach, and it has no relation to the segment of git benefits we're after, or our purposes. Advanced use is for advanced needs. 
+
+With git, low risk can be had with few demands. If compared, Git would argue that saving with CTRL+S is destructive, and remind that undo is unreliable as a result. Git would ask how many warnings were issued during both. Or if you stopped needing them when they stopped working. It would notice that a console is painful when you use absolutely no visual interface at the moment.
 
 It just promises to do what you tell it, so know that. Know why you use each part of the command you're typing if you use them. Especially if its an 'f'. 
 
 That's how I haven't closed up shop yet. 
 
-By remembering that its on me, and that I can mash ctrl+s and ctrl+z safely only because how incapable they really are. Let's try something else.
+By remembering that its on me, and that I can mash CTRL+S and CTRL+Z safely only because how incapable they really are. Let's try something else.
 
 ### Scenarios & How-To's
 

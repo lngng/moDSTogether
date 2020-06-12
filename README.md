@@ -175,7 +175,7 @@ If we only used one branch (called a centralized strategy), all commits would be
 
 **IMPORTANT:** No personal information allowed other than usernames, nicknames, or first names.
 
-The project at (https://github.com/ryanraposo/moDSTogether) will use GitHub's Issues system on this repository to allow listings for mods, and those who want to help with them. 
+The project at (https://github.com/ryanraposo/moDSTogether) will use GitHub's Issues system to allow listings for mods, and those who want to help with them. 
 
 ### Mod Owners
 Introuduce your mod [here.](https://github.com/ryanraposo/moDSTogether/issues/new?assignees=&labels=mod&template=introduce-your-mod-.md&title=%5BMOD%5D)

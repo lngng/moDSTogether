@@ -159,6 +159,8 @@ The first line would mirror a node in the commit history of our *master* branch.
 
 The items below would represent those of our *development* branch, which contains the rolled-up work completed over the lives of our splintering feature branches, like *cool-new-item*. Commits in those feature/fix/change branches are just bread-and-butter git commits, which are not symbolic of anything in particular; they just represent progress for the dev working in the branch and the dev decides their nature when they enter their **commit message** with each one.
 
+Now, don't spend too much time here. If nothing comes to mind, thats what you should take note of for these question:
+
 Why merge when we do?
 
 When we do, what would happen if we didn't?

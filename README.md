@@ -34,7 +34,7 @@ No. All situations where any amount of control is given to another require speci
 
 No, but after reading the FAQ you might want to skip to [Moving Forward](#moving-forward). It can never hurt to familiarize yourself with processes your team members are responsible for, though. Especially if they're learning. 
 
-**Q: Isn't GitHub for open source projects?**
+**Q: Isn't GitHub only for open source projects?**
 
 No. You could put a project (even public) on GitHub that people are not even allowed to use, let alone modify or distrubute. In fact, this is the only assumption one can make if there is no license added, which means you could not surrender anything unless you included a document explicitly doing so. Licenses are always permissive. Your rights are yours until you say otherwise.
 

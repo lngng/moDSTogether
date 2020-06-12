@@ -155,9 +155,6 @@ The first line would mirror a node in the commit history of our *master* branch.
 
 The items below would represent those of our *development* branch, which contains the rolled-up work completed over the lives of our splintering feature branches, like *cool-new-item*. Commits in those feature/fix/change branches are just bread-and-butter git commits, which are not symbolic of anything in particular; they just represent progress for the dev working in the branch and the dev decides their nature when they enter their **commit message** with each one.
 
-If we only used one branch (called a centralized strategy), all commits would be like those I just described. But, in the interest of organization, project-manageability, easier collaboration and effective use of git just generally, we employed some others.
-
-
 ### Scenarios & How-To's
 
 ## Tools

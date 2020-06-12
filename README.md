@@ -69,9 +69,9 @@ I'm doing my very best to ask 'Is this necessary?' before recommending or techni
 
 **Q: Are there any restrictions?**
 
-If you would like to support the project by including this document, please include it in its entirety. You may rename it or move it anywhere within your repository. 
+If you would like to support the project by including this document, please include it in its entirety. You may rename it or move it anywhere within your repository.
 
-Please also be respectful Klei's guidelines surrounding mods. They deserve it. Note that Klei is not associated with this project.
+Please also be respectful of Klei's guidelines surrounding mods. They deserve it. Note that Klei is not associated with this project.
 
 ## Installing Git
 

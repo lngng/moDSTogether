@@ -159,7 +159,7 @@ The first line would mirror a node in the commit history of our *master* branch.
 
 The items below would represent those of our *development* branch, which contains the rolled-up work completed over the lives of our splintering feature branches, like *cool-new-item*. Commits in those feature/fix/change branches are just bread-and-butter git commits, which are not symbolic of anything in particular; they just represent progress for the dev working in the branch and the dev decides their nature when they enter their **commit message** with each one.
 
-Now, don't spend too much time here. If nothing comes to mind, thats what you should take note of for these question:
+Now, don't spend too much time here. If nothing comes to mind, thats what you should take note of for these questions:
 
 Why merge when we do?
 
@@ -177,7 +177,9 @@ Do I always know if the code I'm working on is going to go anywhere or work?
 
 Can I assume it won't while keeping the system?
 
-There aren't answers you're supposed to have after considering each of those questions. At this point, whichever path is more appealing, to **you**, is correct.
+There aren't answers you're supposed to have after considering each of those questions. At this point, whichever path is more appealing, to **you**, is correct. 
+
+Keep. Your. Understanding. It will be enough to proceed.
 
 ### Scenarios & How-To's
 

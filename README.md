@@ -39,9 +39,9 @@ No, but after reading the FAQ you might want to skip to [Moving Forward](#moving
 
 Great news! I hope you have [time](#contact), also.
 
-**Q: I had trouble with the format of the guide at times. What now?
+**Q: I had trouble with the format of the guide at times. What now?**
 
-If the pace is wrong, or the tone somewhere in this guide isn't relevant to you, I'm sorry. Supplementing existing tutorials on this subject is a challenge. I hope I've included something for you. 
+If the pace is wrong, or the tone somewhere in this guide isn't relevant to you, I'm sorry. Supplementing existing tutorials on this subject is a challenge. I hope I've included something for you.
 
 **Q: Isn't GitHub only for open source projects?**
 

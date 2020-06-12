@@ -134,9 +134,9 @@ This section assumes use of Github for Desktop, if you are using something else 
 ### Branches
 ![](/img/branches/master-development-feature.png)
 
-Right now, our repository is based soley in one branch: the *master* branch. We are going to use a workflow strategy based on one called Gitflow as we move forward.
+Right now, our repository is based solely  in one branch: the *master* branch. We are going to use a workflow strategy based on one called Gitflow as we move forward.
 
-In our *master* branch, we have the supporting items from moDSTogether and our mod, which idealy is in a state that reflects its most recent release. Its okay if not, but from here on the history of the *master* branch will be akin to a history of our releases to the Steam Workshop. Many commits to the repository will be made between and up to releases, but we won't be commiting them all directly to our central branch. 
+In our *master* branch, we have the supporting items from moDSTogether and our mod, which ideally is in a state that reflects its most recent release. Its okay if not, but from here on the history of the *master* branch will be akin to a history of our releases to the Steam Workshop. Many commits to the repository will be made between and up to releases, but we won't be commiting them all directly to our central branch. 
 
 We are going to create another branch immediately, based on the *master* branch called the *development* branch. When accumulative commits in this *development* branch warrant or represent a public update to the mod, it will merge back into the *master* branch, rolling in all the changes that make up the new release. This is how the *master* branch will remain symbolic of new versions in the SteamWorkshop.
 

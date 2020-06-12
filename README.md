@@ -34,6 +34,10 @@ No. All situations where any amount of control is given to another require speci
 
 No, but after reading the FAQ you might want to skip to [Moving Forward](#moving-forward). It can never hurt to familiarize yourself with processes your team members are responsible for, though. Especially if they're learning. 
 
+**Q: I just read section x, I have a better idea.**
+
+Great news! I hope you have [time](#contact), also.
+
 **Q: Isn't GitHub only for open source projects?**
 
 No. You could put a project (even public) on GitHub that people are not even allowed to use, let alone modify or distrubute. In fact, this is the only assumption one can make if there is no license added, which means you could not surrender anything unless you included a document explicitly doing so. Licenses are always permissive. Your rights are yours until you say otherwise.
@@ -188,7 +192,7 @@ Note: If you're unsure about how you could help, post with *anything* you're goo
 
 
 ## Contact
-raposo.ryan@gmail.com for questions, comments, and inquiries of any kind, at any time.
+raposo.ryan@gmail.com for questions, comments, and inquiries of any kind, at any time. This includes owners of related resources and communities who would appreciate a mention or cooperation in some form.
 
 Always looking for: things to learn, people to learn them from, and opportunities to be useful.
 

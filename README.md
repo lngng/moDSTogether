@@ -183,23 +183,15 @@ There aren't answers you're supposed to have after considering each of those que
 
 Keep your understanding. Trust that when it is challenged and updated, it won't be catastrophic.
 
-It will be enough to proceed. Git is a topic that makes us doubt that fact.
+It will be enough to proceed. Git is a topic that can make us doubt that fact. Why is that? We're modifying video games! Surely we can at least move forward in learning about it? Can you even name other tech that made you question that? I don't think its a lack of skills. Fear of loss and wasted effort will do it. It's powerful, and it's a black-box. That means its going to be described and operate with words we don't often use, and a lot of them. This is why your understanding may not hold up to more experience, but until thats a problem, its not one. If git only did what we needed, it would be so intuitive that we'd already be making mods together.
 
-But why? You're on a page about modifying video games, surely you can at least move forward in learning about it? Can you even name other tech that made you question that?
+Git doesn't actively suststain your project. It doesn't destroy your project if called off. It just watches it, closely enough to recreate and renact. If we don't point it at important things, and tell it why we value them it will be useless. Its a tool that doesn't discriminate except based on your instruction. You decide whats important, in which situations, and managing to do that with a group is only feasible because git is like that.
 
-It could be because the opposite of what it promises is just terrifying. But this is moot; git doesn't actively suststain your project. It doesn't destroy your project if called off. It just watches it, closely enough to recreate and renact.
+You can and will have to make those decisions, as I do at every practical step in the guide. Do this freely. Perfect, command-fluent use is something I could never teach, and it has no relation to the segment of git benefits we're after, or our purposes. Advanced use is for advanced needs. With git, low risk can be had with few demands. If compared, Git would argue that saving with CTRL+S is destructive, and remind that undo is unreliable as a result. Git would ask how many warnings were issued during both. Or if you stopped needing them when they stopped working. It would notice that a console is painful when you use absolutely no visual interface at the moment.
 
-If we don't point it at important things, and tell it why we value them it will be useless. Its a tool that doesn't discriminate except based on your instruction. You decide whats important, in which situations, and managing to do that with a group is only feasible because git is like that.
+It just promises to do what you tell it, so know that. Know why you use each part of the command you're typing if you use them. Especially if its an 'f'. We can mash CTRL+S and CTRL+Z safely only because of how incapable they really are. 
 
-You can and will have to make those decisions, as I do at every practical step in the guide. Do this freely. Perfect, command-fluent use is something I could never teach, and it has no relation to the segment of git benefits we're after, or our purposes. Advanced use is for advanced needs. 
-
-With git, low risk can be had with few demands. If compared, Git would argue that saving with CTRL+S is destructive, and remind that undo is unreliable as a result. Git would ask how many warnings were issued during both. Or if you stopped needing them when they stopped working. It would notice that a console is painful when you use absolutely no visual interface at the moment.
-
-It just promises to do what you tell it, so know that. Know why you use each part of the command you're typing if you use them. Especially if its an 'f'. 
-
-That's how I haven't closed up shop yet. 
-
-By remembering that its on me, and that I can mash CTRL+S and CTRL+Z safely only because how incapable they really are. Let's try something else.
+Bottom line: git doesn't need to be git do what we're trying to do, but it is. If you're excited to really get into it, thats great! It's useful and enabling of teamwork. But be respectful of modders who are not so excited that it's part of finding a few friends who share a hobby. Its an unfortunate obstacle for them, if only for a time. Please teach (or hold back) where it would be helpful, and remember it's a skill like any other. Many project owners would appreciate that sort of help, but it's the least common.
 
 ### Scenarios & How-To's
 

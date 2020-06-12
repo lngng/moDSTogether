@@ -30,9 +30,9 @@
 
 No. All situations where any amount of control is given to another require specific, additional steps from you. By default, you always make the final call on changes. We'll go over options related to permissions, including keeping total control, or using protected branches to find an ideal setup with contributors you identify.
 
-**Q: I don't have a project, or I just want to help. Can I do anything?**
+**Q: I don't have a project, or I just want to help. Am I in the wrong place?**
 
-Yes, visit the Modders section [here](#modders).
+No, but after reading the FAQ you might want to skip to [Moving Forward](#moving-forward). It can never hurt to familiarize yourself with processes your team members are responsible for, though. Especially if they're learning. 
 
 **Q: Isn't GitHub for open source projects?**
 

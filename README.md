@@ -136,7 +136,7 @@ This section assumes use of Github for Desktop, if you are using something else 
 ### Branches
 ![](/img/branches/master-development-feature.png)
 
-For this section, the goal is to ask why at each stage instead of how. There arent any detailed instructions because more important is a draw for you to use multiple branches  If at the end that isn't true, I'm very interested in your feedback. I won't be listing benefits or selling the concept here.
+For this section, the goal is to ask why at each stage instead of how. There aren't any detailed instructions because more important is a draw for you to use multiple branches. If at the end it isn't there, I'm very interested in your feedback. I won't be listing benefits or selling the concept here.
 
 Right now, our repository is based solely  in one branch: the *master* branch. We are going to use a workflow strategy based on one called Gitflow as we move forward.
 

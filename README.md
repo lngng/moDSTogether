@@ -14,6 +14,7 @@
 - [Getting Started](#getting-started)
 - [Moving Forward](#moving-forward)
   - [Branches](#branches)
+  - [How do I know if I'm getting it?](#how-do-i-know-if-im-getting-it)
   - [Scenarios & How-To's](#scenarios--how-tos)
 - [Tools](#tools)
   - [modops](#modops)
@@ -161,21 +162,21 @@ The items below would represent those of our *development* branch, which contain
 
 Now, don't spend too much time here. If nothing comes to mind, thats what you should take note of for these questions:
 
-Why merge when we do?
+*Why merge when we do?*
 
-When we do, what would happen if we didn't?
+*When we do, what would happen if we didn't?*
 
 Let's go back to one branch:
 
-Who is responsible for deciding what our commits should represent?
+*Who is responsible for deciding what our commits should represent?*
 
-How is that decided?
+*How is that decided?*
 
-If we need to wheel things back, does the system serve me?
+*If we need to wheel things back, does the system serve me?*
 
-Do I always know if the code I'm working on is going to go anywhere or work?
+*Do I always know if the code I'm working on is going to go anywhere or work?*
 
-Can I assume it won't while keeping the system?
+*Can I assume it won't while keeping the system?*
 
 There aren't answers you're supposed to have after considering each of those questions. At this point, whichever path is more appealing, to **you**, is correct. 
 

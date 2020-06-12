@@ -46,7 +46,9 @@ I love open-source! But this project is meant to help you feel comfortable and e
 
 **Q: Do I have to use the template (or anything else)?**
 
-No. The template functionality, the tools, and my advice can be used in part, as a whole, or not at all. I've included each in the form and arrangement they exist because I believe they'll be helpful for specific reasons, in both the individual and community's context. But you don't need to use any of it, even if you use some.
+The template functionality, the tools, and my strategies can be used in part, as a whole, or not at all. I've included each in the form and arrangement they exist because I believe they'll be helpful for specific reasons, in both the individual and community's context. 
+
+If you decide to include this document, please include it in it's entirety, with any name and in any location within the repository. Thank you.
 
 **Q: Sometimes I start a git tutorial, and everything is great. But then I think about making a mistake, or a commitment I might regret, or added stress. This is because I'm aware I might not get it quite as well as is apparent, being a rational person. Back to copy/paste I go. Do you feel me?**
 

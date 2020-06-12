@@ -179,7 +179,19 @@ Can I assume it won't while keeping the system?
 
 There aren't answers you're supposed to have after considering each of those questions. At this point, whichever path is more appealing, to **you**, is correct. 
 
-Keep. Your. Understanding. It will be enough to proceed.
+### How do I know if I'm getting it?
+
+Keep. Your. Understanding. It will be enough to proceed. I have a theory that git is a topic that makes us doubt that fact like little else in tech. Why? You're on a page about modifying video games, surely you can at least move forward in learning about it? Can you even name other tech that made you question that?
+
+It could be because the opposite of what it promises is just terrifying. But this is moot; git doesn't actively suststain your project. It doesn't destroy your project if called off. It doesn't hide the keys to your project if you look at it wrong. It just watches it, closely enough to recreate and renact moments from it. If we dont set it up and use it right it might be hazy on recall, but it isn't out to do damage and most setups warn twice for every warning that is guaranteed.
+
+In its own defence Git would argue that saving with control + s is destructive and remind that undo is reliable, only until its not. Git would ask how many warnings were issued during both. Or if you stopped needing them when they stopped working. It would notice that a console is painful when you use absolutely no visual interface at the moment.
+
+It just promises to do what you tell it, so know that. Know why you use each part of the command you're typing if you use them. Especially if its an 'f'. 
+
+That's how I haven't closed up shop yet. 
+
+By remembering that its on me, and that I can mash ctrl+s and ctrl+z safely only because how incapable they really are. Let's try something else.
 
 ### Scenarios & How-To's
 

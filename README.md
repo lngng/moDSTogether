@@ -71,7 +71,7 @@ I'm doing my very best to ask 'Is this necessary?' before recommending or techni
 
 The project is supported by including this document, please include it in its entirety. You may rename it or move it anywhere within your repository. If you have ideas on how to improve it, please get in touch. Do not make any attempts to monetize anything from this project. 
 
-You can participate with assurance that your content is your own. I (Ryan Raposo) and modstogether do not, and will not seek to make claims of ownership with regards to the creations of others. 
+You can participate with assurance that your content is your own. I (Ryan Raposo) and modstogether do not, and will not seek to make claims of ownership with regards to the original creations of others. 
 
 Please also be respectful of Klei's guidelines surrounding mods. They deserve it. Note that Klei is not associated with this project.
 

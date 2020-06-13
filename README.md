@@ -253,7 +253,7 @@ Note: If you're unsure about how you could help, post with *anything* you're goo
 ## Contact
 raposo.ryan@gmail.com for questions, comments, and inquiries of any kind, at any time. This includes owners of related resources and communities who would appreciate a mention or cooperation in some form. If you are aware of any communities outside of the typical who could find homes on mod teams, let me know. Artists, sound designers, etc. All of us were closer than we thought.
 
-Always looking for: things to learn, people to learn them from, and opportunities to be useful.
+Always looking for: things to learn, people to learn them from, and opportunities to be useful. 
 
    **NOTE:** *The banner and consolecommands.csv & debugcommands.csv (found in tools/sumlua/examples) refer to and contain extracts of material created & owned by Klei Entertainment. This project is not affiliated or associated with Klei Entertainment. "Under Construction" gif by @jeffrey (giphy.com). No copyright infringement intended, will swiftly remove copyrighted content on request by respective owners.*
    

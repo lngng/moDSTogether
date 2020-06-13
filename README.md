@@ -45,6 +45,8 @@ Great news! I hope you have [time](#contact), also.
 
 If the pace is wrong, or the tone somewhere in this guide isn't relevant to you, I'm sorry. Supplementing existing tutorials on this subject is a challenge. I hope I've included something for you.
 
+**Largely fluid for now, as I find voice, move around the space, and trim excess. process is process. Heart is involved. Personification and writers liberties ahead.*
+
 **Q: Isn't GitHub only for open source projects?**
 
 No. You could put a project (even public) on GitHub that people are not allowed to use, let alone modify or distrubute. In fact, this is the only assumption one can make if there is no license added, which means you could not surrender anything unless you included a document explicitly doing so. Licenses are always permissive. Your rights are yours until you say otherwise.

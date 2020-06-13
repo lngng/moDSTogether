@@ -1,4 +1,4 @@
-### NOTICE: (1) scenario section needs you! (2) Think your project/discord/group could be featured meaningfully, contribute, or constitute a resource and be acknowledged fully? Reach out! Don't wait, im busy and not looking to spam anyone (3) use [contact](#contact) or issues for now
+### NOTICE: (1) Scenario section needs you! (2) Think your project/discord/group could be featured meaningfully, contribute, or constitute a resource and be acknowledged fully? Reach out! Don't wait, im busy and not looking to spam anyone (3) use [contact](#contact) or issues for now
 
 
 <p align="center">
@@ -201,7 +201,9 @@ Perfect use doesn't exist, and our needs are humble. Advanced use is for advance
 
 Just know why you use each part of a command. Especially if its an 'f'. These options or flags can be the difference.
 
-Bottom line: git is excessive for my intended audience. If you're excited to really get into it, thats great! It's useful and enabling of teamwork. But be respectful of modders who are not so excited that it's part of finding a few friends who share a hobby. Its an unfortunate obstacle for them, if only for a time. Please teach (or hold back) where it would be helpful, and remember its a skill like any other. Many project owners would appreciate help with their source control responsibilities, but its often assumed on this platform.
+Bottom line:
+
+*Git is excessive for my intended audience. If you're excited to really get into it, thats great! It's useful and enabling of teamwork. But be respectful of modders who are not so excited that it's part of finding a few friends who share a hobby. Its an unfortunate obstacle for them, if only for a time. Please teach (or hold back) where it would be helpful, and remember its a skill like any other. Many project owners would appreciate help with their source control responsibilities, but its often assumed on this platform.*
 
 ### Scenarios & How-To's
 

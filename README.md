@@ -69,12 +69,14 @@ I'm doing my very best to ask 'Is this necessary?' before recommending or techni
 
 **Q: Are there any restrictions?**
 
-The modstogether project is supported by including this document, please only include it in its entirety. You may rename it or move it anywhere within the repository it is used. If you have ideas on how to improve it, please contact raposo.ryan@gmail.com.
+The modstogether project is supported by including this document, please only include it in its entirety, unmodified. You may rename it or move it anywhere within a repository on GitHub only. If you have ideas on how to improve it, please contact raposo.ryan@gmail.com. Do not distribute or use in attempts to monetize.
 
-Do not distribute this document outside of GitHub platforms. Do not modify this document. Terms regarding this document only are subject to change in accordance to those listed within
+You can participate with assurance that your original content is your own. I do not, and will not seek to make claims of ownership with regards to the original creations of others. 
+
+Terms regarding inclusion of this document only are subject to change in accordance to those listed within
 [the original](github.com/ryanraposo/moDSTogether/README.md). This document must be removed if requested by the original author (Ryan Raposo).
 
-You can participate with assurance that your original content is your own. I do not, and will not seek to make claims of ownership with regards to the original creations of others. Do not distribute in attempts to monetize. No additional liability. 
+
 
 Please be respectful of Klei's guidelines surrounding mods. They deserve it. Note that Klei is not associated with this project.
 
@@ -257,5 +259,5 @@ Always looking for: things to learn, people to learn them from, and opportunitie
 
    **NOTE:** *The banner and consolecommands.csv & debugcommands.csv (found in tools/sumlua/examples) refer to and contain extracts of material created & owned by Klei Entertainment. This project is not affiliated or associated with Klei Entertainment. "Under Construction" gif by @jeffrey (giphy.com). No copyright infringement intended, will swiftly remove copyrighted content on request by respective owners.*
    
-   All rights reserved. (Ryan Raposo)
+   All rights reserved unless indicated otherwise. No additional liability. (Ryan Raposo)
 

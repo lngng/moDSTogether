@@ -51,7 +51,7 @@ If the pace is wrong, or the tone somewhere in this guide isn't relevant to you,
 
 **Q: Isn't GitHub only for open source projects?**
 
-No. You could put a project (even public) on GitHub that people are not allowed to use, let alone modify or distrubute. In fact, this is the only assumption one can make if there is no license added, which means you could not surrender anything unless you included a document explicitly doing so. Licenses are always permissive. Your rights are yours until you say otherwise.
+No. You could put a project (even public) on GitHub that people are not allowed to use, let alone modify or distrubute.
 
 **Q: Okay, so I'm clear on things in legal terms. But I kinda still want to keep development private. Can I still collaborate?**
 

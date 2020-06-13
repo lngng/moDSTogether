@@ -83,11 +83,7 @@ Please also be respectful of Klei's guidelines surrounding mods. They deserve it
 
 There are a few options for using git to track a project. Behind all of them is the same command-based system that you might be somewhat familiar with. Paired with a hosting option, a git-tracked project can extend those commands and its endless benefits to a team of any size. We'll be using GitHub to host ours. To use git itself, we need to set-up a few things on our machines.
 
-There happens to be a desktop git solution made by GitHub and it doesn't suck, so we'll use that for now.
-
-Download **[Github for Desktop](https://desktop.github.com/)**.
-
-I recommend this route for now because:
+There happens to be a desktop git solution made by GitHub: **[Github for Desktop](https://desktop.github.com/)**.
 
 - Graphical interface.
     

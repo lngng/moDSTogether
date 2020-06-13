@@ -263,4 +263,3 @@ Always looking for: things to learn, people to learn them from, and opportunitie
    
    All rights reserved
 
-  Copyright 2020 modstogether

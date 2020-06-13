@@ -24,10 +24,11 @@
 
 ## About the Project
 
-MODSTOGETHER is a self-contained community jump-start for modders on GitHub.
+MODSTOGETHER is a self-contained community jump-start for modders on GitHub. This one is for Don't Starve Together. 
 
-This communities hub is located at [github.com/ryanraposo/moDSTogether].
+This communities hub is located at [github.com/ryanraposo/moDSTogether](github.com/ryanraposo/moDSTogether).
 
+MODSTOGETHER is dedicated to those who are in need of a friend. Its the founder's wish that they experience the feeling of making cool things for people who value them. Patience, community, and skill-building are core to MODSTOGETHER.
 
 ## Questions & Answers
 

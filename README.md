@@ -80,7 +80,7 @@ The modstogether project is supported by including this document, please only in
 
 You can participate with assurance that your original content is your own.
 
-If located outside of the original, terms regarding inclusion of this document **only** are subject to change in accordance to those listed within
+If located outside of the original, terms of use regarding inclusion of this document are subject to change in accordance to those listed within
 [the original](github.com/ryanraposo/moDSTogether/README.md). This document must be removed if requested by the original author (Ryan Raposo).
 
 
@@ -266,5 +266,5 @@ Always looking for: things to learn, people to learn them from, and opportunitie
 
    **NOTE:** *The banner and consolecommands.csv & debugcommands.csv (found in tools/sumlua/examples) refer to and contain extracts of material created & owned by Klei Entertainment. This project is not affiliated or associated with Klei Entertainment. "Under Construction" gif by @jeffrey (giphy.com). No copyright infringement intended, will swiftly remove copyrighted content on request by respective owners.*
    
-   All rights reserved unless indicated otherwise. No additional liability. (Ryan Raposo)
+   All rights reserved unless indicated otherwise. (Ryan Raposo)
 

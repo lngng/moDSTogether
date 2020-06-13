@@ -191,9 +191,13 @@ There aren't answers you're supposed to have after considering each of those que
 
 Keep your understanding. Trust that when it is challenged and updated, it won't be catastrophic.
 
-It will be enough to proceed. Git is a topic that can make us doubt that fact. Why is that? We're modifying video games! Surely we can at least move forward in learning about it? Can you even name other tech that made you question that? I don't think its a lack of skills. Fear of loss and wasted effort will do it. It's powerful, and it's a black-box for most of us. That means its going to be described and operate with words we don't often use, and a lot of them. This is also why your understanding may not hold up to more experience, but until thats a problem, its not one. If git only did what we needed, it would be so intuitive that we'd already be making mods together.
+It will be enough to proceed. Git is a topic that can make us doubt that fact. Surely we can at least move forward in learning about it? 
 
-Git does not actively suststain your project. It doesn't destroy your project if called off. It just watches it, closely enough to recreate and reenact. If we don't point it at important things, and tell it why we value them it will be useless. Its a tool that doesn't discriminate except based on your instruction. You decide whats important, in which situations, and managing to do that with a group is only feasible because git is like that.
+Git is powerful, and it's a blackbox for most of us. That means its going to be described with and operate via words we don't often use, and a lot of them. Whats a commit? Its a precursor to a verb, or a meta-verb. Not very relevant to our experience and language, unless you're in law. But thats what a system with buffered, or stacked actions needs to address when pulling the trigger on those actions is a mainstay.
+
+Your current understanding may not hold up to more experience, but until experience is a problem, you'll be okay. If git only did only what social coding demanded, it would be so intuitive that we'd already be making mods together.
+
+Git does not actively sustain your project. It doesn't destroy your project if called off. It just watches it, closely enough to recreate and reenact. If we don't point it at important things, and tell it why we value them it will be useless. We decide whats important, in which situations, and managing to do that with a group is only feasible because git is like that.
 
 You can and will have to make those decisions, as I do at every practical step in the guide. Do this freely. Perfect, command-fluent use is something I could never teach, and it has no relation to the segment of git benefits we're after, or our purposes. Advanced use is for advanced needs. With git, low risk can be had with few demands. If compared, Git would argue that saving with CTRL+S is destructive, and remind that undo is unreliable as a result. Git would ask how many warnings were issued during both. Or if you stopped needing them when they stopped working. It would notice that a console is painful when you use absolutely no visual interface at the moment.
 

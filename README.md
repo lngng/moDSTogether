@@ -71,9 +71,10 @@ I'm doing my very best to ask 'Is this necessary?' before recommending or techni
 
 The project is supported by including this document, please include it in its entirety. You may rename it or move it anywhere within the repository. If you have ideas on how to improve it, please contact raposo.ryan@gmail.com.
 
-Do not distribute this document outside of GitHub platforms. Only the original owner (Ryan Raposo) may modify this document and its terms. Terms subject to change in accordance to those listed within (github.com/ryanraposo/moDSTogether/README.md)
+Do not distribute this document outside of GitHub platforms. Only the original owner (Ryan Raposo) may modify this document and its terms. Terms regarding this document subject to change in accordance to those listed within
+[](github.com/ryanraposo/moDSTogether/README.md)
 
-You can participate with assurance that your original content is your own. I do not, and will not seek to make claims of ownership with regards to the original creations of others. Do not distribute in attempts to monetize. No additional liability. 
+You can participate with assurance that your original content is your own. This document can be removed at any time but must be removed in full. I do not, and will not seek to make claims of ownership with regards to the original creations of others. Do not distribute in attempts to monetize. No additional liability. 
 
 Please be respectful of Klei's guidelines surrounding mods. They deserve it. Note that Klei is not associated with this project.
 

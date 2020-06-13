@@ -71,7 +71,7 @@ I'm doing my very best to ask 'Is this necessary?' before recommending or techni
 
 The modstogether project is supported by including this document, please only include it in its entirety. You may rename it or move it anywhere within the repository it is used. If you have ideas on how to improve it, please contact raposo.ryan@gmail.com.
 
-Do not distribute this document outside of GitHub platforms. Do not modify this document. Terms regarding this document and its use subject to change in accordance to those listed within
+Do not distribute this document outside of GitHub platforms. Do not modify this document. Terms regarding this document only subject to change in accordance to those listed within
 [the original](github.com/ryanraposo/moDSTogether/README.md). Must be removed if requested by the original author (Ryan Raposo).
 
 You can participate with assurance that your original content is your own. I do not, and will not seek to make claims of ownership with regards to the original creations of others. Do not distribute in attempts to monetize. No additional liability. 

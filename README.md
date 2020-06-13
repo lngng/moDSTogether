@@ -197,6 +197,20 @@ Bottom line: git doesn't need to be git to do what we're trying to do, but it is
 
 ### Scenarios & How-To's
 
+If you already have a mod/project on GitHub or similar, let me know your experiences (should be foreseeable for mod teams/our context). I’d like to cover different arrangements and there’s so much I don’t know.
+
+This section is obviously critical. For those with advice or a perspective to share, here’s the format as I see it for now:
+
+Unique setting - common, fundamental operation w UI/commands
+
+Example:
+
+3 collaborators, 2 review req. reached - Merge Pull Request
+
++++ If a public link to view the setting, or additional background is doable! 
+
+Input on setting factors that need to be covered is appreciated also. Thank you!
+
 ## Tools
 
 ### [modops](/tools/modops/README.md)

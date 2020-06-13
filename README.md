@@ -1,4 +1,4 @@
-### NOTICE: (1) Scenario section needs you! (2) Think your project/discord/group could be featured meaningfully, contribute, or constitute a resource and be acknowledged fully? Reach out! Don't wait, im keeping busy and not looking to spam anyone. (3) use raposo.ryan@gmail.com OR use issues :)
+### (1) Scenario section needs you! (2) Think your project/discord/group could be featured meaningfully, contribute, or constitute a resource and be acknowledged fully? Reach out! Don't wait, im keeping busy and not looking to spam anyone. (3) use raposo.ryan@gmail.com OR use issues :)
 
 
 <p align="center">
@@ -223,7 +223,7 @@ Input on setting factors that need to be covered is appreciated also. Thank you!
 
 ### [modops](/tools/modops/README.md)
 - An all-in-one panel of tools and automations for rapid deployment/debugging of Don't Starve Together mods.
-- Useful stand-alone, or nested in moDSTogether-based projects for increased automation and itegration.
+- Useful stand-alone, or nested in moDSTogether-based projects for increased automation and integration.
 
 ### [nstald](/tools/nstald/README.md)
 - Simple script that lists installed mods with their Workshop IDs/directory names.

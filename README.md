@@ -195,7 +195,7 @@ Just know why you use each part of a command. Especially if its an 'f'. These op
 
 Bottom line:
 
-*Git is excessive for my intended audience. If you're excited to really get into it, thats great! It's useful and enabling of teamwork. But be respectful of modders who are not so excited that it's part of finding a few friends who share a hobby. Its an unfortunate obstacle for them, if only for a time. Please teach (or hold back) where it would be helpful, and remember its a skill like any other. Many project owners would appreciate help with their source control responsibilities, but its often assumed on this platform.*
+*Git is excessive for a segment of my intended audience. If you're excited to really get into it, thats great! It's useful and enabling of teamwork. But be respectful of modders who are not so excited that it's part of finding a few friends who share a hobby. Its an unfortunate obstacle for them, if only for a time. Please teach (or hold back) where it would be helpful, and remember its a skill like any other. Many project owners would appreciate help with their source control responsibilities, but its often assumed on this platform.*
 
 ### Scenarios & How-To's
 
@@ -228,6 +228,8 @@ Input on setting factors that need to be covered is appreciated also. Thank you!
 - Useful for making cheatsheets and pulling back the veil on Don't Starve Together's API.
 - See output from consolecommands.lua & debugcommands.lua in /examples for good use-cases.
 
+*Have tools/scripts of your own? I'd like to include them! (With full credit/linking, of course.)*
+
 ## Find a Team
 
 **IMPORTANT:** No personal information allowed other than usernames, nicknames, or first names.
@@ -239,10 +241,9 @@ Introuduce your mod [here.](https://github.com/ryanraposo/moDSTogether/issues/ne
 
 ### Modders
 
-No matter your background or experience, you have something that good mods need! Create a listing [here.](https://github.com/ryanraposo/moDSTogether/issues/new?assignees=&labels=modder&template=introduce-yourself--no-experience-required-.md&title=%5BWANT+TO+HELP%5D+title)
+Create a listing [here.](https://github.com/ryanraposo/moDSTogether/issues/new?assignees=&labels=modder&template=introduce-yourself--no-experience-required-.md&title=%5BWANT+TO+HELP%5D+title)
 
-Note: If you're unsure about how you could help, post with *anything* you're good at, enjoy doing, or are interested in. I am making it my top priority in managing this project to help you figure out just what that is, and I invite other modders to do the same. The skills you don't have came later for many, many modders! 
-
+Note: If you're unsure about how you could help, post with *anything* you're good at, enjoy doing, or are interested in. No matter your background or experience, you have something that good mods need! I am making it my top priority in managing this project to help you figure out just what that is, and I invite other modders to do the same. The skills you don't have came later for many, many modders! 
 
 ## Contact
 raposo.ryan@gmail.com for questions, comments, and inquiries of any kind, at any time. This includes owners of related resources and communities who would appreciate a mention or cooperation in some form. If you are aware of any communities outside of the typical who could find homes on mod teams, let me know. Artists, sound designers, etc. All of us were closer than we thought.

@@ -1,4 +1,4 @@
-### NOTICE: (1) scenario section needs you! (2) Think your project/discord/group could be featured meaningfully, contribute, or constitute a resource and be acknowledged fully? Reach out! Don't wait, im busy and not looking to spam :) (3) [Contact](#contact)
+### NOTICE: (1) scenario section needs you! (2) Think your project/discord/group could be featured meaningfully, contribute, or constitute a resource and be acknowledged fully? Reach out! Don't wait, im busy and not looking to spam (3) use [contact](#contact) or issues for now
 
 <p align="center">
   <a href="" rel="noopener">

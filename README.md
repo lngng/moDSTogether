@@ -148,7 +148,7 @@ Right now, our repository is based solely  in one branch: the *master* branch. W
 
 In our *master* branch, we have the supporting items from moDSTogether and our mod, which ideally is in a state that reflects its most recent release. Its okay if not, but from here on the history of the *master* branch will be akin to a history of our releases to the Steam Workshop. Many commits to the repository will be made between and up to releases, but we won't be commiting them all directly to our central branch. 
 
-We are going to create another branch immediately, based on the *master* branch called the *development* branch. When accumulative commits in this *development* branch warrant or represent a public update to the mod, it will merge back into the *master* branch, rolling in all the changes that make up the new release. This is how the *master* branch will remain symbolic of new versions in the SteamWorkshop.
+We are going to create another branch immediately, based on the *master* branch called the *development* branch. When accumulative commits in this *development* branch warrant or represent a public update to the mod, it will merge back into the *master* branch, rolling in all the changes that make up the new release. This is how the *master* branch will remain symbolic of new versions in the Steam Workshop.
 
 To keep things simple, we could say that development is going to involve adding new features, bug-fixes, and various other miscellaneous changes. When we want to get started on one of these, like adding a cool new item to the mod, we're going branch off of *development* with a short-lived but useful branch called something like: *cool-new-item*. When the new item is finished, it will be merged back into *development* (which makes it destined for the next release).
 
@@ -183,7 +183,7 @@ Let's go back to one branch:
 
 *Can I assume it won't while keeping the system?*
 
-There aren't answers you're supposed to have after considering each of those questions. At this point, whichever path is more appealing, to **you**, is correct. 
+Any advantages, roadblocks, or hesitations are important after considering those questions. At this point, whichever path is more appealing, to **you**, is correct. Don't worry about any specific know-how just yet.
 
 ### How do I know if I'm getting it?
 

@@ -189,21 +189,19 @@ There aren't answers you're supposed to have after considering each of those que
 
 ### How do I know if I'm getting it?
 
-Keep your understanding. Trust that when it is challenged and updated, it won't be catastrophic.
+Trust that when your understanding is challenged, you can reconcile.
 
-It will be enough to proceed. Git is a topic that can make us doubt that fact. Surely we can at least move forward in learning about it? 
-
-Git is powerful, and it's a blackbox for most of us. That means its going to be described with and operate via words we don't often use, and a lot of them. Whats a commit? Its a precursor to a verb, or a meta-verb. Not very relevant to our experience and language, unless you're in law. But thats what a system with buffered, or stacked actions needs to address when pulling the trigger on those actions is a mainstay.
+Git is a topic that can make us doubt that fact. It's a blackbox for most of us. That means its going to be described with and operate via a host of words we don't often use. Whats a commit? Its a precursor to a verb, or a meta-verb. Not very relevant to our experience and language, unless you're in law. But thats what a system with buffered, or stacked actions needs to address when pulling the trigger on those actions is a mainstay.
 
 Your current understanding may not hold up to more experience, but until experience is a problem, you'll be okay. If git only did only what social coding demanded, it would be so intuitive that we'd already be making mods together.
 
-Git does not actively sustain your project. It doesn't destroy your project if called off. It just watches it, closely enough to recreate and reenact. If we don't point it at important things, and tell it why we value them it will be useless. We decide whats important, in which situations, and managing to do that with a group is only feasible because git is like that.
+Git does not actively sustain your project. It doesn't destroy your project if called off. It just watches it, diligently enough to recreate, reenact, and recount. If we don't point it at important things, and tell it why we value them it will be useless. We can also define whats off-limits, and who has access. 
 
-You can and will have to make those decisions, as I do at every practical step in the guide. Do this freely. Perfect, command-fluent use is something I could never teach, and it has no relation to the segment of git benefits we're after, or our purposes. Advanced use is for advanced needs. With git, low risk can be had with few demands. If compared, Git would argue that saving with CTRL+S is destructive, and remind that undo is unreliable as a result. Git would ask how many warnings were issued during both. Or if you stopped needing them when they stopped working. It would notice that a console is painful when you use absolutely no visual interface at the moment.
+Perfect use doesn't exist, and our needs are humble. Advanced use is for advanced needs. To frame a dimension git is concerned with, think about Edit actions of a menu bar. CTRL+S could be described destructive, when you consider that CTRL+Z hinges on an unseen history of actions within most workspaces. If present git would boast warnings and a log around both, and wouldn't disengage when those shortcuts normally do. Normally intimidating, gits interface now looks like the asset it is.
 
-It just promises to do what you tell it, so know that. Know why you use each part of the command you're typing if you use them. Especially if its an 'f'. We can mash CTRL+S and CTRL+Z safely only because of how incapable they really are. 
+Just know why you use each part of a command. Especially if its an 'f'. These options or flags can be the difference.
 
-Bottom line: git doesn't need to be git to do what we're trying to do, but it is. If you're excited to really get into it, thats great! It's useful and enabling of teamwork. But be respectful of modders who are not so excited that it's part of finding a few friends who share a hobby. Its an unfortunate obstacle for them, if only for a time. Please teach (or hold back) where it would be helpful, and remember its a skill like any other. Many project owners would appreciate that sort of help, but its the least common.
+Bottom line: git is excessive for my intended audience. If you're excited to really get into it, thats great! It's useful and enabling of teamwork. But be respectful of modders who are not so excited that it's part of finding a few friends who share a hobby. Its an unfortunate obstacle for them, if only for a time. Please teach (or hold back) where it would be helpful, and remember its a skill like any other. Many project owners would appreciate help with their source control responsibilities, but its often assumed on this platform.
 
 ### Scenarios & How-To's
 

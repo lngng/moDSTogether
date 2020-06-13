@@ -27,7 +27,7 @@
   - [Modders](#modders)
 - [Contact](#contact)
 
-## Aknowledgments
+## Acknowledgments
 
 What came first, comes first:
 

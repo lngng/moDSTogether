@@ -25,7 +25,7 @@
 
 ## FAQ
 
-**Q: Do I have to surrender control of my project?**
+**Q: Do I have to surrender control of my project to collaborate?**
 
 No. All situations where any amount of control is given to another require specific, additional steps from you. By default, you always make the final call on changes. We'll go over options related to permissions, including keeping total control, or using protected branches to find an ideal setup with contributors you identify.
 
@@ -39,7 +39,7 @@ Great news! I hope you have [time](#contact), also.
 
 **Q: I had trouble with the format of the guide at times. What now?**
 
-If the pace is wrong, or the tone somewhere in this guide isn't relevant to you, I'm sorry. I want to help people who struggle with the same feelings I have to this day. Thats the place I can speak from. Coding and having people to be excited about it with saved my life. Modding let me feel at home.
+If the pace is wrong, or the tone somewhere in this guide isn't relevant to you, I'm sorry. I want to help people who struggle with the same feelings I have to this day. Thats the place I can speak from. Coding and having people to be excited about it with saved my life. Modding let me feel at home. Squabbling over certain tech or tech culture is just a non-consideration vs. my intention to give people where I'm from in life a shortcut out by any means. That said I hope they can enjoy the luxury like me one day, and I really do. Don't touch my setup.
 
 On a less serious note, I'm commited to it because supplementing existing tutorials on this subject is a hard! I do hope there is something in the project for you. 
 

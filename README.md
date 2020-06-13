@@ -183,7 +183,7 @@ Any advantages, roadblocks, or hesitations are important after considering those
 
 Trust that when your understanding is challenged, you can reconcile.
 
-Git is a topic that can make us doubt that fact. It's a blackbox for most of us. That means its going to be described with and operate via a host of words we don't often use. Whats a commit? Its a precursor to a verb, or a meta-verb. Not very relevant to our experience and language, unless you're in law. But thats what a system with buffered, or stacked actions (see: stashed, staged, proposed) needs to address when pulling the trigger on those actions is a mainstay.
+Git is a topic that can make us doubt that fact. It's a blackbox for most of us. That means its going to be described with and operate via a host of words we don't often use. Whats a commit? Its a precursor to a verb, or a meta-verb. Not very relevant to our experience and language, unless you're in law. But thats what a system with buffered, or stacked (or stashed or staged or proposed or indexed) actions needs to address when pulling the trigger on those actions is a mainstay. 
 
 Your current understanding may not hold up to more experience, but until experience is a problem, you'll be okay. If git did only what social coding demanded, it would be so intuitive that we'd be modding together right now.
 

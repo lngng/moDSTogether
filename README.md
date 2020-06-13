@@ -11,6 +11,7 @@
  <img src="img/banner/modstogether-banner.png" alt="moDSTogether"></a>
 </p>
 
+- [Acknowledgements](#acknowledgements)
 - [FAQ](#faq)
 - [Installing Git](#installing-git)
 - [Getting Started](#getting-started)
@@ -53,7 +54,7 @@ Great news! I hope you have [time](#contact), also.
 
 If the pace is wrong, or the tone somewhere in this guide isn't relevant to you, I'm sorry. Supplementing existing tutorials on this subject is a challenge. I hope I've included something for you.
 
-**Largely fluid for now, as I find voice, move around the space, and trim excess. process is process. Heart is involved. Personification and writers liberties ahead.*
+***Largely fluid for now, as I find voice, move around the space, and trim excess. process is process. Heart is involved. Personification and writers liberties ahead.***
 
 **Q: Isn't GitHub only for open source projects?**
 

@@ -47,7 +47,9 @@ Great news! I hope you have [time](#contact), also.
 
 **Q: I had trouble with the format of the guide at times. What now?**
 
-If the pace is wrong, or the tone somewhere in this guide isn't relevant to you, I'm sorry. Supplementing existing tutorials on this subject is a challenge. I hope I've included something for you.
+If the pace is wrong, or the tone somewhere in this guide isn't relevant to you, I'm sorry. I want to help people who struggle with the same feelings I have to this day. Thats the place I can speak from. Coding and having people to be excited about it with saved my life. Modding let me feel at home.
+
+On a less serious note, I'm commited to it because supplementing existing tutorials on this subject is a hard! I do hope there is something in the project for you. 
 
 **Q: Isn't GitHub only for open source projects?**
 

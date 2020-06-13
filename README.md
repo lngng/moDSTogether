@@ -1,4 +1,4 @@
-### (1) Scenario section needs you! (2) Think your project/discord/group could be featured meaningfully, contribute, or constitute a resource and be acknowledged fully? Reach out! Don't wait, im keeping busy and not looking to spam anyone. (3) use raposo.ryan@gmail.com OR use issues :)
+### (1) Scenario section needs you! (2) Think your project/discord/group could be featured meaningfully, contribute, or constitute a resource and be acknowledged fully? Reach out! Don't wait, im keeping busy, not looking to spam anyone, and I'd like your permission. (3) use raposo.ryan@gmail.com OR use issues :)
 
 
 <p align="center">
@@ -22,14 +22,6 @@
   - [Mod Owners](#mod-owners)
   - [Modders](#modders)
 - [Contact](#contact)
-
-## Acknowledgements
-
-What came first, comes first:
-
-- Ultroman and *the* community
-- Tosh and The Prismatic Gateway
-- Vy and Witching Hour
 
 ## FAQ
 

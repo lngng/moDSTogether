@@ -55,7 +55,7 @@ No. You could put a project (even public) on GitHub that people are not allowed 
 
 **Q: Okay, so I'm clear on things in legal terms. But I kinda still want to keep development private. Can I still collaborate?**
 
-Yes, I'll explain how, and I want to take this opportunity to validate your decision to do that. There *is* a consideration that the open-source community, license drafters, and courts do not and cannot reasonably weigh in on: your feeling on things. Do not let current discussion have you feeling that your decision to share your passion with other people is actually, in the end, a step in the wrong direction. Are there benefits to going public? I think so, and they will be discussed and leveraged here but *moDSTogether* is still for you if you choose to remain private. No sweat.
+Yes, I'll explain how, and I want to take this opportunity to validate your decision to do that. There *is* a consideration that the open-source community, license drafters, and courts do not and cannot reasonably weigh in on: your feeling on things. Do not let current discussion have you feeling that your decision to share your passion with other people is actually, in the end, a step in the wrong direction. Are there benefits to public repositories? I think so, and they will be discussed and leveraged here but *moDSTogether* is still for you if you choose to make yours private. No sweat.
 
 I love open-source! But this project is meant to help you feel comfortable and equipped to work with others - not accelerate you into the hyper-transparent software economy of 2090.  
 

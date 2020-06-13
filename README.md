@@ -262,3 +262,5 @@ Always looking for: things to learn, people to learn them from, and opportunitie
    This project is not affiliated or associated with Klei Entertainment
    
    All rights reserved
+
+  Copyright 2020 modstogether

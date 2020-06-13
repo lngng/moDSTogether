@@ -257,7 +257,7 @@ raposo.ryan@gmail.com for questions, comments, and inquiries of any kind, at any
 
 Always looking for: things to learn, people to learn them from, and opportunities to be useful.
 
-   **NOTE:** *The banner and consolecommands.csv & debugcommands.csv (found in tools/sumlua/examples) refer to and contain extracts of material created & owned by Klei Entertainment. "Under Construction" gif by @jeffrey (giphy.com). No copyright infringement intended, will swiftly remove on request.*
+   **NOTE:** *The banner and consolecommands.csv & debugcommands.csv (found in tools/sumlua/examples) refer to and contain extracts of material created & owned by Klei Entertainment. "Under Construction" gif by @jeffrey (giphy.com). No copyright infringement intended, will swiftly remove copyrighted content on request by respective owners.*
    
    This project is not affiliated or associated with Klei Entertainment
    

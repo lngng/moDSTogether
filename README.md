@@ -1,4 +1,4 @@
-### NOTICE: (1) Scenario section needs you! (2) Think your project/discord/group could be featured meaningfully, contribute, or constitute a resource and be acknowledged fully? Reach out! Don't wait, im busy and not looking to spam anyone (3) use [contact](#contact) or issues for now
+### NOTICE: (1) Scenario section needs you! (2) Think your project/discord/group could be featured meaningfully, contribute, or constitute a resource and be acknowledged fully? Reach out! Don't wait, im busy and not looking to spam anyone (3) use raposo.ryan@gmail.com for issues :)
 
 
 <p align="center">

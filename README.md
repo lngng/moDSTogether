@@ -32,7 +32,7 @@
 What came first, comes first:
 
 - Ultroman and *the* community
-- Tosh and Prismatic Gateway
+- Tosh and The Prismatic Gateway
 - Vy and Witching Hour
 
 ## FAQ

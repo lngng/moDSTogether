@@ -1,3 +1,5 @@
+### NOTICE: (1) scenario section needs you! (2) Think your project/discord/group could be featured meaningfully, contribute, or constitute a resource and be acknowledged fully? Reach out! Don't wait, im busy and not looking to spam :)
+
 <p align="center">
   <a href="" rel="noopener">
  <img src="img/underconstruction/under-construction.gif" alt="moDSTogether"></a>
@@ -201,7 +203,7 @@ If you already have a mod/project on GitHub or similar, let me know your experie
 
 This section is obviously critical. For those with advice or a perspective to share, here’s the format as I see it for now:
 
-Unique setting - common, fundamental operation w UI/commands
+Unique setting - common, fundamental operation w UI/commands (breakdown of flags if applicable)
 
 Example:
 

@@ -80,7 +80,7 @@ The modstogether project is supported by including this document, please only in
 
 You can participate with assurance that your original content is your own.
 
-If located outside of the original, terms regarding *inclusion of this document only* are subject to change in accordance to those listed within
+If located outside of the original, terms regarding inclusion of this document **only** are subject to change in accordance to those listed within
 [the original](github.com/ryanraposo/moDSTogether/README.md). This document must be removed if requested by the original author (Ryan Raposo).
 
 

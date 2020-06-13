@@ -69,11 +69,11 @@ I'm doing my very best to ask 'Is this necessary?' before recommending or techni
 
 **Q: Are there any restrictions?**
 
-The project is supported by including this document, please include it in its entirety. You may rename it or move it anywhere within your repository. If you have ideas on how to improve it, please get in touch.
+The project is supported by including this document, please include it in its entirety. You may rename it or move it anywhere within the repository. If you have ideas on how to improve it, please contact raposo.ryan@gmail.com
 
-You can participate with assurance that your content is your own. I do not, and will not seek to make claims of ownership with regards to the original creations of others. Do not distribute in attempts to monetize. No additional liability.
+You can participate with assurance that your original content is your own. I do not, and will not seek to make claims of ownership with regards to the original creations of others. Do not distribute in attempts to monetize. No additional liability.
 
-Please also be respectful of Klei's guidelines surrounding mods. They deserve it. Note that Klei is not associated with this project.
+Please be respectful of Klei's guidelines surrounding mods. They deserve it. Note that Klei is not associated with this project.
 
 ## Installing Git
 

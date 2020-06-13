@@ -27,6 +27,14 @@
   - [Modders](#modders)
 - [Contact](#contact)
 
+## Aknowledgments
+
+What came first, comes first:
+
+- Ultroman and *the* community
+- Tosh and Prismatic Gateway
+- Vy and Witching Hour
+
 ## FAQ
 
 **Q: Do I have to surrender control of my project?**

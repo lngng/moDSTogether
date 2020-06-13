@@ -26,7 +26,7 @@
 
 This community's hub is located at [github.com/ryanraposo/moDSTogether](github.com/ryanraposo/moDSTogether). This one is for Don't Starve Together. It is the original.
 
-MODSTOGETHER is a self-contained, community jump-start for modders on GitHub. Help the network grow by adding this document to your Don't Starve Together modding project on the site, with or without the tools and resources below. If you want to start one for your favourite game, please get in touch with the author. Let's make it happen.
+MODSTOGETHER is a self-contained, community jump-start for modders on GitHub. Help the network grow by adding this document to your Don't Starve Together modding project on the site, with or without the tools and resources below. If you want to start one for your favourite game, please get in touch with the [author](#contact). Let's make it happen.
 
 MODSTOGETHER is dedicated to those who are in need of a friend. Its the founder's wish that they experience the feeling of making cool things for, and with people who value them. Patience, community, and skill-building are core to MODSTOGETHER.
 

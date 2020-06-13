@@ -22,9 +22,11 @@
   - [Modders](#modders)
 - [Contact](#contact)
 
-## What is modstogether?
+## About the Project
 
+MODSTOGETHER is a self-contained community jump-start for modders on GitHub.
 
+This communities hub is located at [github.com/ryanraposo/moDSTogether].
 
 
 ## Questions & Answers

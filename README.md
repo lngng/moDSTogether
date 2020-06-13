@@ -24,7 +24,7 @@
 
 ## About the Project
 
-This communities hub is located at [github.com/ryanraposo/moDSTogether](github.com/ryanraposo/moDSTogether). This one is for Don't Starve Together. It is the original.
+This community's hub is located at [github.com/ryanraposo/moDSTogether](github.com/ryanraposo/moDSTogether). This one is for Don't Starve Together. It is the original.
 
 MODSTOGETHER is a self-contained, non-commercial community jump-start for modders on GitHub. Help the network grow by adding this document to your modding project on the site. If you want to start one for your favourite game, please get in touch and I will help you see it through.
 

@@ -80,8 +80,7 @@ You can participate with assurance that your original content is your own.
 
 The modstogether project is supported by including this document, please only include it in its entirety, unmodified. You may rename it or move it anywhere within a repository on GitHub only. If you have ideas on how to improve it, please contact raposo.ryan@gmail.com. Do not distribute or use in attempts to monetize.
 
-Terms of use regarding inclusion of this document outside of the original are subject to change in accordance with changes to the
-[the original](github.com/ryanraposo/moDSTogether/README.md). This document must be removed if requested by the original author (Ryan Raposo). No additional liability
+Terms of use are subject to changes to [the original](github.com/ryanraposo/moDSTogether/README.md). Removal of the document is always okay if terms are deemed unnacceptable by you, with nothing else needed. This document must be removed if requested by the original author (Ryan Raposo). No additional liability.
 
 Please be respectful of Klei's guidelines surrounding mods. They deserve it. Note that Klei is not associated with this project.
 

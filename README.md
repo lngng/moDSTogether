@@ -62,7 +62,7 @@ I love open-source! But this project is meant to help you feel comfortable and e
 
 **Q: Do I have to use the template (or anything else)?**
 
-No, but If you decide you'd like to include this document, please include it in it's entirety, with any name and in any location within the repository. The rest of the files can be used as is, or not at all.
+No, but If you decide you'd like to include this document, please include it in it's entirety, with any name and in any location within the repository. 
 
 **Q: Sometimes I start a git tutorial, and everything is great. But then I think about making a mistake, or a commitment I might regret, or added stress. This is because I'm aware I might not get it quite as well as is apparent, being a rational person. Do you feel me?**
 

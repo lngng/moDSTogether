@@ -78,7 +78,7 @@ I'm doing my very best to ask 'Is this necessary?' before recommending or techni
 
 **Q: Are there any restrictions, or things I should know?**
 
-The modstogether project is supported by including this document, please only include it in its entirety, unmodified. You may rename it or move it anywhere within a repository on GitHub only. Removal of this document is always enough if any new terms regarding it are deemed unnacceptable by you, with nothing else required. 
+The modstogether project is supported by including this document, please only include it in its entirety, unmodified. You may rename it or move it anywhere within a repository on GitHub only. Removal of this document is always enough if any new terms regarding it are deemed unnacceptable by you.
 
 No additional liability.
 

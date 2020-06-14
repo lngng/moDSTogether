@@ -80,7 +80,7 @@ The modstogether project is supported by including this document, please only in
 
 You can participate with assurance that your original content is your own.
 
-Terms of use regarding inclusion of this document outside of the original are subject to change in accordance to those listed within
+Terms of use regarding inclusion of this document outside of the original are subject to change in accordance with changes to the
 [the original](github.com/ryanraposo/moDSTogether/README.md). This document must be removed if requested by the original author (Ryan Raposo). No additional liability
 
 Please be respectful of Klei's guidelines surrounding mods. They deserve it. Note that Klei is not associated with this project.

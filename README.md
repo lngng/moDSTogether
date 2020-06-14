@@ -76,11 +76,9 @@ I'm doing my very best to ask 'Is this necessary?' before recommending or techni
 
 **Q: Are there any restrictions, or things I should know?**
 
-The modstogether project is supported by including this document, please only include it in its entirety, unmodified. You may rename it or move it anywhere within a repository on GitHub only. If you have ideas on how to improve it, please contact raposo.ryan@gmail.com. Do not distribute or use in attempts to monetize.
+The modstogether project is supported by including this document, please only include it in its entirety, unmodified. You may rename it or move it anywhere within a repository on GitHub only. Removal of this document is always enough if any new terms regarding it are deemed unnacceptable by you, with nothing else required. 
 
-You can participate with assurance that your original content is your own. Removal of this document is always enough if any new terms of use regarding this document are deemed unnacceptable by you, with nothing else required.
-
-Terms of use are subject to changes to [the original](github.com/ryanraposo/moDSTogether/README.md). No additional liability.
+No additional liability.
 
 Please be respectful of Klei's guidelines surrounding mods. They deserve it. Note that Klei is not associated with this project.
 

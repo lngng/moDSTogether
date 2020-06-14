@@ -64,7 +64,7 @@ I love open-source! But this project is meant to help you feel comfortable and e
 
 If you decide you'd like to include this document, please include it in it's entirety, with any name and in any location within the repository. 
 
-Everything else can be used in part, as a whole, or not at all. I've included each in the form and arrangement they exist because I believe they'll be helpful for specific reasons, in both the individual and community context- but you don't need to use anything. 
+The tools, strategies, and listings can be used in part, as a whole, or not at all. I've included each in the form and arrangement they exist because I believe they'll be helpful for specific reasons, in both the individual and community context- but you don't need to use anything. 
 
 **Q: Sometimes I start a git tutorial, and everything is great. But then I think about making a mistake, or a commitment I might regret, or added stress. This is because I'm aware I might not get it quite as well as is apparent, being a rational person. Do you feel me?**
 

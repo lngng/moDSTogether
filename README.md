@@ -74,7 +74,7 @@ But you're in my heart and we can do this. If I'm setting out to do anything, it
 
 I'm doing my very best to ask 'Is this necessary?' before recommending or technical-naming *anything*. If something looks like jargon, keep your understanding. If you can live without the benefits of a certain step, do so, and then add me on Discord (ryanraposo #6339) and if I can, I'll help you make it work. That's what this is about.
 
-**Q: Are there any restrictions?**
+**Q: Are there any restrictions, or things I should know?**
 
 You can participate with assurance that your original content is your own.
 

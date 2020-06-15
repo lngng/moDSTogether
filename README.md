@@ -1,5 +1,3 @@
-### Welcome! For your peace of mind, I suggest being patient while I work out terms of use and that sort of thing. I want this to be as awesome and open as possible, but I dont want to be taken advantage of. Just sit tight!
-
 ##### (1) Scenario section needs you! (2) Think your project/discord/group could be featured meaningfully, contribute, or constitute a resource and be acknowledged fully? Reach out! Don't wait, im keeping busy, not looking to spam anyone, and I'd like your permission. (3) I would rather not do this alone (4) use raposo.ryan@gmail.com OR use issues :) 
 
 <p align="center">

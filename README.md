@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img src="img/banner/modstogether-banner.png" alt="moDSTogether"></a>
+ <img src="https://github.com/ryanraposo/moDSTogether/img/banner/modstogether-banner.png" alt="moDSTogether"></a>
 </p>
 
 - [About the Project](#about-the-project)
@@ -259,5 +259,5 @@ raposo.ryan@gmail.com for questions, comments, and inquiries of any kind, at any
 
 Always looking for: things to learn, people to learn them from, and opportunities to be useful. 
 
-   **NOTE:** *The banner and consolecommands.csv & debugcommands.csv (found in tools/sumlua/examples) refer to and contain extracts of material created & owned by Klei Entertainment. This project is not affiliated or associated with Klei Entertainment. "Under Construction" gif by @jeffrey (giphy.com). No copyright infringement intended, will swiftly remove copyrighted content on request by respective owners.*
+   **NOTE:** *The banner at the top of this document and consolecommands.csv & debugcommands.csv (found in tools/sumlua/examples) refer to and contain extracts of material created & owned by Klei Entertainment. This project is not affiliated or associated with Klei Entertainment. "Under Construction" gif by @jeffrey (giphy.com). No copyright infringement intended, will swiftly remove copyrighted content on request by respective owners.*
 

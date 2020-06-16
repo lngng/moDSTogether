@@ -184,11 +184,13 @@ Let's go back to one branch:
 
 *Can I assume it won't while keeping the system?*
 
-Any advantages, roadblocks, or hesitations are important after considering those questions. At this point, whichever path is more appealing, to **you**, is correct. Don't worry about any specific know-how just yet.
+*If I, as project owner could decide how certain branches are used and who is allowed to use them, does that change anything?*
+
+Any advantages, roadblocks, or hesitations in mind are important after considering those questions. At this point, whichever path is more appealing, to **you**, is correct. Don't worry about any specific know-how just yet.
 
 ### How do I know if I'm getting it?
 
-Trust that when your understanding is challenged, you can reconcile.
+Trust that when your understanding is challenged, you'll be able reconcile.
 
 Git is a topic that can make us doubt that fact. It's a black box for most of us. That means its going to be described with and operate via a host of words we don't often use. Whats a commit? Its a precursor to a verb, or a meta-verb. Not very relevant to our experience and language, unless you're in law. But thats what a system with buffered, or stacked (or stashed or staged or proposed or indexed) actions needs to address when pulling the trigger on those actions is a mainstay. 
 

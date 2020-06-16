@@ -186,7 +186,7 @@ Let's go back to one branch:
 
 *If I, as project owner could decide how certain branches are used and who is allowed to use them, does that change anything?*
 
-Any advantages, roadblocks, or hesitations in mind are important after considering those questions. At this point, whichever path is more appealing to **you**, is correct. Don't worry about any specific know-how just yet.
+Any advantages, roadblocks, or hesitations in mind are important after considering those questions. At this point, whichever path is more appealing to **you** is correct. Don't worry about any specific know-how just yet.
 
 ### How do I know if I'm getting it?
 

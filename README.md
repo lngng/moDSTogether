@@ -32,7 +32,7 @@ MODSTOGETHER is dedicated to those who are in need of a friend. Its the founder'
 
 ## Questions & Answers
 
-**Q: Do I have to surrender control of my project to collaborate?**
+**Q: Do I have to surrender control of my mod project to collaborate?**
 
 No. All situations where any amount of control is given to another require specific, additional steps from you. By default, you always make the final call on changes. We'll go over options related to permissions, including keeping total control, or using protected branches to find an ideal setup with contributors you identify.
 
@@ -62,8 +62,6 @@ I love open-source! But this project is meant to help you feel comfortable and e
 
 **Q: Do I have to use the template (or anything else)?**
 
-(From the author: I highly suggest being patient for now. Thanks, Ryan)
-
 No, but If you decide you'd like to include this document, please include it in it's entirety, with any name and in any location within the repository. 
 
 **Q: Sometimes I start a git tutorial, and everything is great. But then I think about making a mistake, or a commitment I might regret, or added stress. This is because I'm aware I might not get it quite as well as is apparent, being a rational person. Do you feel me?**
@@ -76,7 +74,7 @@ I'm doing my very best to ask 'Is this necessary?' before recommending or techni
 
 **Q: Are there any restrictions, or things I should know?**
 
-The modstogether project is supported by including this document, please only include it in its entirety, unmodified. You may rename it or move it anywhere within a repository on GitHub only. Removal of this document is always enough if any new terms regarding it are deemed unnacceptable by you.
+The modstogether project is supported by including this document. You can rename it or move it anywhere within a repository on GitHub, but please don't modify it. 
 
 No additional liability.
 

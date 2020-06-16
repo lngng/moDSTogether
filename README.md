@@ -198,7 +198,7 @@ Your current understanding may not hold up to more experience, but until experie
 
 Git does not actively sustain your project. It doesn't destroy your project if called off. It just watches it, diligently enough to recreate, reenact, and recount. If we don't point it at important things, and tell it why we value them it will be useless. We can also define whats off-limits, and who has access. 
 
-Perfect use doesn't exist, and our needs are humble. Advanced use is for advanced needs. To frame a dimension git is concerned with, think about Edit actions of a menu bar. CTRL+S could be described destructive, when you consider that CTRL+Z hinges on an unseen history of actions within most workspaces. If present git would boast warnings and a log around both, and wouldn't disengage when those shortcuts normally do. Normally intimidating, gits interface now looks like the asset it is.
+Perfect use doesn't exist, and our needs are humble. Advanced use is for advanced needs. To frame a dimension git is concerned with, think about Edit actions of a menu bar. CTRL+S could be described destructive, when you consider that CTRL+Z hinges on an unseen history of actions within most workspaces. If present git would boast warnings or a log around both, and wouldn't disengage when those shortcuts normally do. Normally intimidating, gits interface now looks like the asset it is.
 
 Just know why you use each part of a command. Especially if its an 'f'. These options or flags can be the difference.
 

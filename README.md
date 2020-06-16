@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://github.com/ryanraposo/moDSTogether/img/banner/modstogether-banner.png" alt="moDSTogether"></a>
+ <img src="https://github.com/ryanraposo/moDSTogether/blob/master/img/banner/modstogether-banner.png" alt="moDSTogether"></a>
 </p>
 
 - [About the Project](#about-the-project)

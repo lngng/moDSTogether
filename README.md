@@ -12,7 +12,7 @@
 - [Moving Forward](#moving-forward)
   - [Branches](#branches)
   - [How do I know if I'm getting it?](#how-do-i-know-if-im-getting-it)
-  - [Scenarios & How-To's](#scenarios--how-tos)
+  - [Scenarios & How-Tos](#scenarios--how-tos)
 - [Tools](#tools)
   - [modops](#modops)
   - [nstald](#nstald)
@@ -202,9 +202,9 @@ Just know why you use each part of a command. Especially if its an 'f'. These op
 
 Bottom line:
 
-*Git is excessive for a segment of my intended audience. If you're excited to really get into it, thats great! It's useful and enabling of teamwork. But be respectful of modders who are not so excited that it's part of finding a few friends who share a hobby. Its an unfortunate obstacle for them, if only for a time. Please teach (or hold back) where it would be helpful, and remember its a skill like any other. Many project owners would appreciate help with their source control responsibilities, but its often assumed on this platform.*
+*Git is excessive for a segment of my intended audience. If you're excited to really get into it, thats great! It's useful and enabling of teamwork. But be respectful of modders who are not so excited that it's part of finding a few friends who share a hobby. Its an unfortunate obstacle for them, if only for a time. Please teach (or hold back) where it would be helpful, and remember its a skill like any other. Many project owners would appreciate help with their source control responsibilities, but mastery is often assumed on this platform.*
 
-### Scenarios & How-To's
+### Scenarios & How-Tos
 
 If you already have a mod/project on GitHub or similar, let me know your experiences (should be foreseeable for mod teams/our context). I’d like to cover different arrangements and there’s so much I don’t know.
 

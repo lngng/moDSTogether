@@ -5,8 +5,8 @@
  <img src="img/banner/modstogether-banner.png" alt="moDSTogether"></a>
 </p>
 
-- [Acknowledgements](#acknowledgements)
-- [FAQ](#faq)
+- [About the Project](#about-the-project)
+- [Questions & Answers](#questions--answers)
 - [Installing Git](#installing-git)
 - [Getting Started](#getting-started)
 - [Moving Forward](#moving-forward)
@@ -46,15 +46,15 @@ Great news! I hope you have [time](#contact), also.
 
 **Q: I had trouble with the format of the guide at times. What now?**
 
-If the pace is wrong, or the tone somewhere in this guide isn't relevant to you, I'm sorry. I want to help people who struggle with the same feelings I have to this day. Thats the place I can speak from. Coding, and having people to be excited about it with saved my life. Modding let me feel at home. Squabbling over certain tech or tech culture is just a non-consideration vs. my intention to give people where I'm from in life a shortcut ASAP. That said I hope they can enjoy the luxury like me one day, and I really do enjoy it. Don't touch my setup.
+If the pace is wrong, or the tone somewhere in this guide isn't relevant to you, I'm sorry. I want to help people who struggle with the same feelings I have to this day. Thats the place I can speak from. Coding and having people to be excited about it with **saved my life**. Modding let me feel at home. Squabbling over certain tech or tech culture is just a non-consideration vs. my intention to give people where I'm from in life a shortcut ASAP. That said I hope they can enjoy the luxury like me one day, and I really do enjoy it. Don't touch my setup.
 
-On a less serious note, I'm commited to it because supplementing existing tutorials on this subject is a hard! I do hope there is something in the project for you. 
+On a less serious note, I'm committed to it because supplementing existing tutorials on this subject is a hard! I do hope there is something in the project for you. 
 
 **Q: Isn't GitHub only for open source projects?**
 
-No. You could put a project (even public) on GitHub that people are not allowed to use, let alone modify or distrubute.
+No. You could put a project (even public) on GitHub that people are not allowed to use, let alone modify or distribute.
 
-**Q: Okay, so I'm clear on things in legal terms. But I kinda still want to keep development private. Can I still collaborate?**
+**Q: I still want to keep development private. Can I still collaborate?**
 
 Yes, I'll explain how, and I want to take this opportunity to validate your decision to do that. There *is* a consideration that the open-source community, license drafters, and courts do not and cannot reasonably weigh in on: your feeling on things. Do not let current discussion have you feeling that your decision to share your passion with other people is actually, in the end, a step in the wrong direction. Are there benefits to public repositories? I think so, and they will be discussed and leveraged here but *moDSTogether* is still for you if you choose to make yours private. No sweat.
 
@@ -88,21 +88,21 @@ There are a few options for using git to track a project. Behind all of them is 
 
 There happens to be a desktop git solution made by GitHub: **[Github for Desktop](https://desktop.github.com/)**
 
-This route isn't bad. I suggest we take it because:
+I suggest we take this route because:
 
 - Graphical interface.
-    
-- We'll be using git with Github specifically, and its a git app... from and for Gitub. (It's worth noting again the difference between git and git hosts like Github. Git is to Github as porn is to Pornhub. There are other options like Gitlab, Bitbucket, etc.)
-    
-- It's aimed at people new to git who want to do exactly what we're trying to do: open a project up to a small team for colloaboration.
+  
+- We'll be using git with Github specifically, and its a git app... from and for Github. It's worth noting again the difference between git and git hosts like Github. Git is to Github as porn is to Pornhub. There are other options like Gitlab, Bitbucket, etc.
     
 - Eventually you might find yourself using git via commands in a terminal. When you do, you'll recognize a lot of the commands from using this app. While it combines and obscures them a little bit for ease-of-use, it does a good job of building familiarity nonetheless.
     
-- Being a user-friendly git app designed to work with github, its the best possible intro to the three main topics:
+- Being a user-friendly git app designed to work with Github, its the best possible intro to the three main topics:
     
     - Git (the system)
     - Repositories (the thing git works upon/with. We're making a repository for our mod.)
     - Remotes (hosted repositories)
+
+- Github has alternatives but it is the largest, most familiar, and isn't lacking features you'll need to get started. By the end of this guide you'll be better equipped to disagree with my choices, and with that I'll have done my job.
 
 ## Getting Started
 
@@ -113,7 +113,7 @@ This section assumes use of Github for Desktop, if you are using something else 
    ![use-this-template.png](/img/gettingstarted/1-use-this-template.png)
 * * *
 
-2. **Finish creating your repository**. Note the image below. Feel free to make the repo public, but it isn't neccessary. It can be private and you will still be able to collaborate with others. You can always change this setting (as well as the name and description!) later on.
+2. **Finish creating your repository**. Note the image below. Feel free to make the repo public, but it isn't necessary. It can be private and you will still be able to collaborate with others. You can always change this setting (as well as the name and description!) later on.
 
    ![from-template.png](/img/gettingstarted/2-create.png)
 * * *

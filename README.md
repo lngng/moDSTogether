@@ -198,13 +198,11 @@ Your current understanding may not hold up to more experience, but until experie
 
 Git does not actively sustain your project. It doesn't destroy your project if called off. It just watches it, diligently enough to recreate, reenact, and recount. If we don't point it at important things, and tell it why we value them it will be useless. We can also define whats off-limits, and who has access. 
 
-Perfect use doesn't exist, and our needs are humble. Advanced use is for advanced needs. To frame a dimension git is concerned with, think about Edit actions of a menu bar. CTRL+S could be described destructive, when you consider that CTRL+Z hinges on an unseen history of actions within most workspaces. If present git would boast warnings or a log around both, and wouldn't disengage when those shortcuts normally do. Normally intimidating, gits interface now looks like the asset it is.
+Perfect use doesn't exist, and our needs are humble. Advanced use is for advanced needs. To frame a dimension git is concerned with, think about Edit actions of a menu bar. CTRL+S could be described destructive, when you consider that CTRL+Z hinges on an unseen history of actions within most workspaces. If loosely compared, git would boast warnings or a log around both, and wouldn't disengage when those shortcuts normally do. Normally intimidating, gits interface now looks like the asset it is.
 
-Just know why you use each part of a command. Especially if its an 'f'. These options or flags can be the difference.
+Take some time to know *why* you're using each part of a command before taking that plunge (especially if its a lonely "-f"!). These options or flags can be the difference.
 
-Bottom line:
-
-*Git is excessive for a segment of my intended audience. If you're excited to really get into it, thats great! It's useful and enabling of teamwork. But be respectful of modders who are not so excited that it's part of finding a few friends who share a hobby. Its an unfortunate obstacle for them, if only for a time. Please teach (or hold back) where it would be helpful, and remember its a skill like any other. Many project owners would appreciate help with their source control responsibilities, but mastery is often assumed on this platform.*
+Most importantly: let the historical tracking of git be the saftey-net its designed to be! I personally understand the desire to keep your learning process private. Git can be scary if you have the mindset, but, Its there to help, and so is the community at large. Take advantage of it, and remember that just because there are best-practices that others might point out or appreciate, nobody is looking to judge your git logs with a cynical eye. After all, those things are only appreciated because they enable us to help each other out a little bit better!
 
 ### Scenarios & How-Tos
 

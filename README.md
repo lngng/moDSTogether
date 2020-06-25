@@ -1,5 +1,3 @@
-##### (1) Scenario section needs you! (2) Think your project/discord/group could be featured meaningfully, contribute, or constitute a resource and be acknowledged fully? Reach out! Don't wait, im keeping busy, not looking to spam anyone, and I'd like your permission. (3) I would rather not do this alone (4) use raposo.ryan@gmail.com OR use issues :) 
-
 <p align="center">
   <a href="" rel="noopener">
  <img src="https://github.com/ryanraposo/moDSTogether/blob/master/img/banner/modstogether-banner.png" alt="moDSTogether"></a>
@@ -24,11 +22,13 @@
 
 ## About the Project
 
+##### (1) Scenario section needs you! (2) Think your project/discord/group could be featured meaningfully, contribute, or constitute a resource and be acknowledged fully? Reach out! Don't wait, im keeping busy, not looking to spam anyone, and I'd like your permission. (3) I would rather not do this alone (4) use raposo.ryan@gmail.com OR use issues :) 
+
 This community's hub is located at [github.com/ryanraposo/moDSTogether](github.com/ryanraposo/moDSTogether). This one is for Don't Starve Together. It is the original.
 
 MODSTOGETHER is a self-contained, community jump-start for modders on GitHub. Help the network grow by adding this document to your Don't Starve Together mod project here on the site. If you want to start one for your favourite game, or contribute to the MODSTOGETHER project please get in touch with the [author](#contact). Let's make it happen.
 
-MODSTOGETHER is dedicated to those who are in need of a friend. Its the founder's wish that they experience the feeling of making cool things for, and with people who value them. Patience, community, and skill-building are core to MODSTOGETHER.
+MODSTOGETHER is dedicated to those who are in need of a friend. Its the founder's wish that they experience the feeling of making cool things for, and with people who value them. Patience, community, and skill-building are core to the project.
 
 ## Questions & Answers
 

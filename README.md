@@ -92,7 +92,7 @@ I suggest we take this route because:
   
 - We'll be using git with Github specifically, and its a git app... from and for Github. It's worth noting again the difference between git and git hosts like Github. Git is to Github as porn is to Pornhub. There are other options like Gitlab, Bitbucket, etc.
     
-- Eventually you might find yourself using git via commands in a terminal. When you do, you'll recognize a lot of the commands from using this app. While it combines and obscures them a little bit for ease-of-use, it does a good job of building familiarity nonetheless.
+- Eventually you might find yourself using git via commands in a terminal. When you do, you'll recognize a lot of the commands from your time using this app. While it combines and obscures them a little bit for ease-of-use, it does a good job of building familiarity nonetheless.
     
 - Being a user-friendly git app designed to work with Github, its the best possible intro to the three main topics:
     
@@ -183,6 +183,8 @@ Let's go back to one branch:
 *Do I always know if the code I'm working on is going to go anywhere or work?*
 
 *Can I assume it won't while keeping the system?*
+
+And generally...
 
 *If I, as project owner could decide how certain branches are used and who is allowed to use them, does that change anything?*
 
